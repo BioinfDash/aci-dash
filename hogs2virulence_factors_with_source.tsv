@@ -1,0 +1,860 @@
+no_colname	no_colname	no_colname	no_colname	no_colname	no_colname
+HOG10034.fa	WP_004729800.1	0.004	fig|470.5685.peg.6262|SAMEA104305377_05788|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045877 | 470.5685]	VFDB
+HOG10074.fa	WP_004963481.1	3.44e-152	fig|470.5054.peg.3259|BQ1898_01304|	T6SS AAA+ chaperone ClpV (TssH)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10106.fa	WP_004898307.1	1.72e-11	fig|349966.5.peg.1488|yfred0001_15320|VBIYerFre50381_1488|	Transcriptional regulator of acrAB operon, AcrR   [Yersinia frederiksenii ATCC 33641 | 349966.5]	PATRIC
+HOG10137.fa	WP_004900451.1	1.78e-10	fig|1229489.3.peg.2978|VBIBetPro254082_2978|	Transcriptional regulator of acrAB operon, AcrR   [beta proteobacterium L13 | 1229489.3]	PATRIC
+HOG10155.fa	WP_040331413.1	1.29e-47	fig|470.5054.peg.3173|BQ1898_05571|	Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10158.fa	WP_045793049.1	2.62e-06	fig|316.108.peg.1594|	Alginate biosynthesis two-component system sensor histidine kinase KinB   [Pseudomonas stutzeri strain KF716 (=NBRC 110668) | 316.108]	PATRIC
+HOG10159.fa	WP_042892674.1	8.26e-71	fig|1123016.6.peg.273|	Alginate biosynthesis two-component system response regulator AlgB   [Pseudomonas balearica DSM 6083 DSM6083 (=SP1402) | 1123016.6]	PATRIC
+HOG1019.fa	WP_000083629.1	3.96e-12	fig|470.5054.peg.1481|BQ1898_06147|	T6SS outer membrane component TssL (ImpK/VasF) / OmpA/MotB domain   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10214.fa	WP_045792542.1	0.010	fig|698759.3.peg.7645|STRIP9103_03651|VBIStrIpo159484_7645|	Lipoprotein LpqB, modulates activity of MtrAB two-component system   [Streptomyces ipomoeae 91-03 | 698759.3]	PATRIC
+HOG10241.fa	WP_004756411.1	0.002	fig|470.5623.peg.1912|SAMEA104305315_05828|	L-ornithine 5-monooxygenase (EC 1.13.12.-), PvdA of pyoverdin biosynthesis @ Siderophore biosynthesis protein, monooxygenase   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG10246.fa	WP_004756687.1	0.004	fig|470.9259.peg.3619|	TonB-dependent receptor; Outer membrane receptor for ferric enterobactin and colicins B, D   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG1024.fa	WP_000084317.1	1.36e-11	fig|470.10130.peg.7344|	iron aquisition 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58,Irp5) @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG10307.fa	WP_002066325.1	2.00e-12	fig|470.5054.peg.5726|BQ1898_00038|	Transcriptional regulator PchR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1031.fa	WP_004961822.1	1.49e-04	fig|470.9260.peg.7626|	Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)   [Acinetobacter baumannii strain abaGIM | 470.9260]	VFDB
+HOG10322.fa	WP_034171661.1	2.23e-04	fig|37923.8.peg.1611|RSA28_07485|	Two component system sensor histidine kinase MtrB   [Kocuria kristinae strain RSA28 | 37923.8]	PATRIC
+HOG10415.fa	WP_034170878.1	1.85e-06	fig|470.5622.peg.8160|SAMEA104305299_03202|	ABC transporter, ATP-binding protein   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG10483.fa	WP_016660708.1	3.06e-07	fig|1388748.3.peg.1735|VBICroZur308118_1735|	Transcriptional regulator of acrAB operon, AcrR   [Cronobacter zurichensis LMG 23730 | 1388748.3]	PATRIC
+HOG1057.fa	WP_000089273.1	1.19e-103	fig|470.5054.peg.1895|BQ1898_02624|	Type IV fimbriae expression regulatory protein PilR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10583.fa	WP_004806066.1	9.03e-06	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1058.fa	WP_064785071.1	3.38e-72	fig|743720.3.peg.200|Psefu_0202|VBIPseFul161978_0200|	Alginate biosynthesis two-component system response regulator AlgB   [Pseudomonas fulva 12-X | 743720.3]	PATRIC
+HOG10594.fa	WP_004807064.1	3.52e-07	fig|349965.6.peg.333|yinte0001_26130|VBIYerInt66761_0333|	Transcriptional regulator of acrAB operon, AcrR   [Yersinia intermedia ATCC 29909 | 349965.6]	PATRIC
+HOG1059.fa	WP_004679575.1	3.47e-84	fig|470.5054.peg.6078|BQ1898_00272|	Flagellar regulatory protein FleQ   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG105.fa	WP_001169059.1	5.09e-09	fig|470.7268.peg.3004|	Enterobactin exporter EntS   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1060.fa	WP_000846949.1	1.01e-74	fig|470.5054.peg.6080|BQ1898_00274|	Flagellar two-component response regulator FleR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1061.fa	WP_004822532.1	7.73e-45	fig|1123508.3.peg.3308|VBIZavFor235957_3308|	Alginate biosynthesis two-component system response regulator AlgB   [Zavarzinella formosa DSM 19928 | 1123508.3]	PATRIC
+HOG1062.fa	WP_000840559.1	4.69e-164	fig|470.5054.peg.1895|BQ1898_02624|	Type IV fimbriae expression regulatory protein PilR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10636.fa	WP_004810719.1	0.010	fig|1349789.5.peg.2072|	Transcriptional repressor of CmeABC operon, CmeR   [Sulfurospirillum arsenophilum NBRC 109478 | 1349789.5]	PATRIC
+HOG1063.fa	WP_001096444.1	6.48e-73	fig|470.5054.peg.1895|BQ1898_02624|	Type IV fimbriae expression regulatory protein PilR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10646.fa	WP_005013783.1	9.86e-07	fig|470.3734.peg.3536|B4S00_02975|	hypothetical protein   [Acinetobacter baumannii strain ABUH526 | 470.3734]	VFDB
+HOG1066.fa	WP_005100709.1	3.60e-10	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10689.fa	WP_034424910.1	0.003	fig|1460643.3.peg.3562|	Two component system sensor histidine kinase MtrB   [Arthrobacter sp. JCM 19049 | 1460643.3]	PATRIC
+HOG1068.fa	WP_000890088.1	2.29e-06	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10693.fa	WP_082191080.1	0.002	fig|1108045.3.peg.5396|GORHZ_219_00010|VBIGorRhi226788_5396|	Two component system sensor histidine kinase MtrB   [Gordonia rhizosphera NBRC 16068 | 1108045.3]	PATRIC
+HOG106.fa	WP_022574566.1	4.73e-100	fig|470.7268.peg.3004|	Enterobactin exporter EntS   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1070.fa	WP_061391858.1	8.55e-34	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1072.fa	WP_000912180.1	2.18e-30	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10752.fa	WP_065993499.1	4.91e-131	fig|470.5054.peg.2790|BQ1898_01738|	4-hydroxyphenylacetate 3-monooxygenase (EC 1.14.14.9)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1076.fa	WP_016137804.1	1.10e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1079.fa	WP_016540202.1	3.76e-09	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG107.fa	WP_004724861.1	2.26e-08	fig|470.3275.peg.3248|BS576_07910|	Tetracycline resistance, MFS efflux pump => Tet(B)   [Acinetobacter baumannii strain Ab158_GEIH-2000 | 470.3275]	VFDB
+HOG1080.fa	WP_020847079.1	1.14e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10815.fa	WP_016656004.1	3.91e-44	fig|470.5054.peg.3260|BQ1898_01305|	T6SS component TssG (ImpH/VasB)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10816.fa	WP_016656002.1	4.69e-20	fig|470.5054.peg.3262|BQ1898_01307|	T6SS lysozyme-like component TssE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10817.fa	WP_016656001.1	7.51e-17	fig|470.5054.peg.3263|BQ1898_01308|	T6SS associated component TagJ (ImpE)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10818.fa	WP_004861869.1	5.01e-26	fig|470.5054.peg.3265|BQ1898_01309|	T6SS component Hcp   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10819.fa	WP_016655999.1	0.0	fig|470.5054.peg.3266|BQ1898_01310|	T6SS component TssC (ImpC/VipB)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10821.fa	WP_004861889.1	3.44e-72	fig|470.5054.peg.1481|BQ1898_06147|	T6SS outer membrane component TssL (ImpK/VasF) / OmpA/MotB domain   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10822.fa	WP_016655992.1	6.66e-11	fig|470.5054.peg.1479|BQ1898_06145|	T6SS secretion lipoprotein TssJ (VasD)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1082.fa	WP_009389225.1	2.43e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1083.fa	WP_063099106.1	1.63e-09	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10842.fa	WP_058972143.1	1.72e-158	fig|470.5054.peg.3254|BQ1898_01299|	VgrG protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10849.fa	WP_004865355.1	5.66e-61	fig|470.5622.peg.11660|SAMEA104305299_09241|	CFA/I fimbrial major subunit   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG10850.fa	WP_049001996.1	1.27e-166	fig|471.22.peg.13|A9988_18825|	CFA/I fimbrial auxiliary subunit   [Acinetobacter calcoaceticus strain EGD_AQ_BF14 | 471.22]	VFDB
+HOG10851.fa	WP_016657468.1	0.0	fig|471.22.peg.14|A9988_18830|	CFA/I fimbrial subunit C usher protein   [Acinetobacter calcoaceticus strain EGD_AQ_BF14 | 471.22]	VFDB
+HOG10852.fa	WP_004865362.1	2.17e-86	fig|470.7268.peg.6606|	CFA/I fimbrial minor adhesin   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1085.fa	WP_000845356.1	1.64e-36	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1088.fa	WP_000949923.1	3.37e-04	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10892.fa	WP_064786154.1	2.97e-180	fig|471.22.peg.17|A9988_18840|	CFA/I fimbrial chaperone   [Acinetobacter calcoaceticus strain EGD_AQ_BF14 | 471.22]	VFDB
+HOG1089.fa	WP_000625528.1	2.18e-35	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1091.fa	WP_002000718.1	2.75e-28	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG10926.fa	WP_004879754.1	3.99e-07	fig|470.9257.peg.3613|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1093.fa	WP_016804741.1	6.56e-25	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1094.fa	WP_013197016.1	3.38e-29	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1095.fa	WP_019838316.1	1.75e-23	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1096.fa	WP_000662318.1	4.00e-33	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1098.fa	WP_000357083.1	5.88e-29	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11001.fa	WP_004899046.1	4.09e-10	fig|470.5628.peg.146|	Glycosyl transferase, group 2 family   [Acinetobacter baumannii strain 4300STDY7045807 | 470.5628]	VFDB
+HOG11007.fa	WP_004900294.1	7.96e-08	fig|470.7268.peg.4419|	Outer membrane protein A precursor   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG11009.fa	WP_067723424.1	3.19e-05	fig|470.5054.peg.1890|BQ1898_02619|	Type IV fimbrial biogenesis protein PilW   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1100.fa	WP_000355650.1	2.54e-04	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11013.fa	WP_052690148.1	0.003	fig|1121366.3.peg.2068|VBICorPil241686_2068|	Two component system sensor histidine kinase MtrB   [Corynebacterium pilosum DSM 20521 | 1121366.3]	PATRIC
+HOG1101.fa	WP_000861801.1	5.64e-13	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1102.fa	WP_000546789.1	0.001	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1103.fa	WP_058970734.1	1.85e-45	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1104.fa	WP_001087992.1	3.06e-19	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1105.fa	WP_000572817.1	2.20e-08	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1106.fa	WP_004769411.1	2.47e-25	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1107.fa	WP_001049897.1	5.34e-15	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11088.fa	WP_016656232.1	8.22e-65	fig|470.5622.peg.8181|SAMEA104305299_03223|	Phenazine modifying protein PhzH / Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG1108.fa	WP_017393726.1	5.80e-21	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1109.fa	WP_001061609.1	8.47e-31	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1110.fa	WP_000926808.1	1.50e-31	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11128.fa	WP_004913493.1	7.33e-12	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1114.fa	WP_005213400.1	1.40e-27	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11159.fa	WP_032009301.1	0.009	fig|470.5054.peg.3267|BQ1898_01311|	T6SS component TssB (ImpB/VipA)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1115.fa	WP_005186038.1	4.53e-36	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1116.fa	WP_000380238.1	6.53e-30	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1117.fa	WP_017402688.1	8.33e-23	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11181.fa	WP_004939702.1	3.29e-08	fig|1333848.3.peg.2463|CFNIH1_12475|	Transcriptional regulator of acrAB operon, AcrR   [Citrobacter freundii CFNIH1 | 1333848.3]	PATRIC
+HOG1118.fa	WP_001041371.1	6.54e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11196.fa	WP_004960363.1	0.006	fig|470.6812.peg.4344|	Outer membrane protein A precursor   [Acinetobacter baumannii strain MRSN7170 | 470.6812]	VFDB
+HOG1119.fa	WP_000568098.1	1.39e-12	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1120.fa	WP_000144734.1	4.55e-09	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1121.fa	WP_000774594.1	1.72e-07	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1122.fa	WP_045793459.1	1.33e-34	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1123.fa	WP_045793480.1	1.47e-30	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1124.fa	WP_004904960.1	4.70e-44	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1125.fa	WP_004898386.1	2.49e-30	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1126.fa	WP_000843079.1	1.22e-36	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1127.fa	WP_000366423.1	5.51e-37	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1128.fa	WP_000375416.1	2.94e-30	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1129.fa	WP_001163452.1	1.09e-36	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1130.fa	WP_001983985.1	6.59e-43	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1131.fa	WP_001230727.1	1.24e-31	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1132.fa	WP_045793091.1	2.40e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1135.fa	WP_045793851.1	2.94e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11378.fa	WP_080633053.1	3.41e-10	fig|470.9257.peg.1691|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1137.fa	WP_000886383.1	1.15e-07	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1139.fa	WP_004784582.1	7.55e-07	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1145.fa	WP_092621282.1	4.99e-10	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1146.fa	WP_097077462.1	6.02e-28	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1148.fa	WP_097078831.1	9.65e-48	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1149.fa	WP_092615607.1	1.36e-30	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1150.fa	WP_097079875.1	4.03e-27	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1152.fa	WP_092614625.1	8.11e-32	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1153.fa	WP_087618736.1	0.005	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1155.fa	WP_070070342.1	4.17e-04	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11560.fa	WP_067766777.1	3.57e-20	fig|470.7268.peg.3010|	Enterobactin synthetase component F, serine activating enzyme (EC 2.7.7.-)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG11561.fa	WP_067555919.1	6.07e-08	fig|470.7268.peg.3000|	Isochorismatase (EC 3.3.2.1) [enterobactin] siderophore / Apo-aryl carrier domain of EntB @ Isochorismatase (EC 3.3.2.1) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1156.fa	WP_087619715.1	5.51e-16	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1157.fa	WP_097077437.1	1.98e-42	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1159.fa	WP_087620323.1	3.34e-32	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1161.fa	WP_087621240.1	1.95e-23	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1162.fa	WP_087621183.1	0.002	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1164.fa	WP_097079013.1	1.37e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11651.fa	WP_005029853.1	1.92e-16	fig|470.5622.peg.4607|SAMEA104305299_06800|	Pyridoxamine 5'-phosphate oxidase PhzG (EC 1.4.3.5)   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG1165.fa	WP_087621743.1	0.002	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11664.fa	WP_005030949.1	5.72e-50	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11667.fa	WP_023187992.1	0.002	fig|470.5622.peg.4607|SAMEA104305299_06800|	Pyridoxamine 5'-phosphate oxidase PhzG (EC 1.4.3.5)   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG1168.fa	WP_000090021.1	6.22e-10	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1169.fa	WP_000194049.1	6.44e-05	fig|470.10130.peg.7338|	Iron siderophore ABC transporter, permease/ATP-binding protein YbtP   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG11763.fa	WP_005047009.1	3.99e-05	fig|470.6998.peg.454|	Capsular polysaccharide synthesis enzyme Cap8N   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG1179.fa	WP_002027522.1	3.05e-08	fig|1224150.8.peg.1130|	Transcriptional regulator of acrAB operon, AcrR   [Dickeya paradisiaca NCPPB 2511 | 1224150.8]	PATRIC
+HOG11886.fa	WP_005095136.1	1.80e-44	fig|470.5685.peg.6262|SAMEA104305377_05788|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045877 | 470.5685]	VFDB
+HOG1188.fa	WP_000094481.1	1.30e-45	fig|470.5054.peg.6085|BQ1898_00279|	Flagellum-specific ATP synthase FliI   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG11928.fa	WP_005262866.1	7.77e-06	fig|1122200.3.peg.3705|	Two component system sensor histidine kinase MtrB   [Marinobacterium jannaschii DSM 6295 | 1122200.3]	PATRIC
+HOG11948.fa	WP_005104532.1	8.19e-20	fig|470.7101.peg.3686|	Polysaccharide intercellular adhesin (PIA) biosynthesis N-glycosyltransferase IcaA (EC 2.4.-.-)   [Acinetobacter baumannii strain MRSN7593 | 470.7101]	VFDB
+HOG11955.fa	WP_005104992.1	1.93e-11	fig|1121035.3.peg.1648|VBIAzoRes270785_1648|	Transcriptional regulator of acrAB operon, AcrR   [Azovibrio restrictus DSM 23866 | 1121035.3]	PATRIC
+HOG1196.fa	WP_000095824.1	0.006	fig|50340.43.peg.1381|PF66_04078|	Alginate biosynthesis two-component system sensor histidine kinase AlgZ/FimS   [Pseudomonas fuscovaginae strain IRRI 6609 | 50340.43]	PATRIC
+HOG1203.fa	WP_000096556.1	0.0	fig|470.5054.peg.3259|BQ1898_01304|	T6SS AAA+ chaperone ClpV (TssH)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12062.fa	WP_005157747.1	5.28e-04	fig|1123016.6.peg.501|	Alginate biosynthesis two-component system response regulator AlgR   [Pseudomonas balearica DSM 6083 DSM6083 (=SP1402) | 1123016.6]	PATRIC
+HOG12110.fa	WP_005155712.1	1.17e-18	fig|470.7253.peg.4388|	D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)   [Acinetobacter baumannii strain MRSN915 | 470.7253]	VFDB
+HOG12120.fa	WP_005217213.1	0.003	fig|1500279.3.peg.232|	Two component system sensor histidine kinase MtrB   [Microbacterium sp. CF335 | 1500279.3]	PATRIC
+HOG12160.fa	WP_046738235.1	1.54e-13	fig|470.5054.peg.6894|BQ1898_05718|	Flagellar biosynthesis protein FliQ   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12161.fa	WP_046738212.1	2.17e-11	fig|470.5054.peg.6895|BQ1898_05719|	Flagellar biosynthesis protein FliR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12162.fa	WP_005187026.1	1.50e-51	fig|470.5054.peg.6896|BQ1898_05720|	Flagellar biosynthesis protein FlhB   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12163.fa	WP_031947735.1	2.15e-140	fig|470.5054.peg.6899|BQ1898_05723|	Flagellar biosynthesis protein FlhA   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12164.fa	WP_046738214.1	9.93e-15	fig|470.7268.peg.2002|	Flagellar basal-body rod protein FlgG   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG12165.fa	WP_031947737.1	5.83e-56	fig|470.5054.peg.6056|BQ1898_00251|	Flagellar basal-body rod protein FlgG   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12167.fa	WP_052750586.1	9.73e-23	fig|470.5054.peg.6057|BQ1898_00252|	Flagellar L-ring protein FlgH   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12168.fa	WP_005187044.1	2.15e-71	fig|470.5054.peg.6058|BQ1898_00253|	Flagellar P-ring protein FlgI   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12170.fa	WP_046738219.1	1.28e-14	fig|470.7009.peg.4146|	Flagellar basal-body rod protein FlgC   [Acinetobacter baumannii strain MRSN7455 | 470.7009]	VFDB
+HOG12172.fa	WP_046738221.1	1.04e-25	fig|470.5054.peg.6082|BQ1898_00276|	Flagellar M-ring protein FliF   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12174.fa	WP_046738224.1	3.99e-108	fig|470.5651.peg.1311|SAMEA104305337_00932|	Type III secretion cytoplasmic ATP synthase (EC 3.6.3.14, YscN,SpaL,MxiB,HrcN,EscN)   [Acinetobacter baumannii strain 4300STDY7045842 | 470.5651]	VFDB
+HOG12177.fa	WP_016143245.1	8.60e-12	fig|470.5054.peg.6053|BQ1898_00248|	Flagellar basal-body rod modification protein FlgD   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12178.fa	WP_005187085.1	1.58e-19	fig|470.5054.peg.6054|BQ1898_00249|	Flagellar hook protein FlgE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12180.fa	WP_046738230.1	8.45e-12	fig|470.5622.peg.2168|SAMEA104305299_08286|	Flagellar motor switch protein FliN   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG12182.fa	WP_046738232.1	2.54e-60	fig|470.5054.peg.6893|BQ1898_05717|	Flagellar biosynthesis protein FliP   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG121.fa	WP_001082090.1	3.41e-78	fig|470.3275.peg.3248|BS576_07910|	Tetracycline resistance, MFS efflux pump => Tet(B)   [Acinetobacter baumannii strain Ab158_GEIH-2000 | 470.3275]	VFDB
+HOG1220.fa	WP_000101096.1	3.82e-57	fig|470.5054.peg.671|BQ1898_05298|	twitching motility protein PilH   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12262.fa	WP_039907558.1	7.94e-04	fig|470.9259.peg.2655|	Type 1 fimbriae regulatory protein FimE   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG12328.fa	WP_031997070.1	0.006	fig|1592327.3.peg.1089|OK074_7345|	Two component system sensor histidine kinase MtrB   [Actinobacteria bacterium OK074 | 1592327.3]	PATRIC
+HOG12369.fa	WP_005221904.1	0.005	fig|1522311.4.peg.2500|	Two component system response regulator MtrA   [Tessaracoccus sp. SIT6 | 1522311.4]	PATRIC
+HOG12472.fa	WP_038342878.1	1.23e-29	fig|470.10130.peg.7344|	iron aquisition 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58,Irp5) @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG12479.fa	WP_081401201.1	4.53e-15	fig|470.5054.peg.1896|BQ1898_02625|	Two-component sensor PilS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG12535.fa	WP_005140931.1	0.004	fig|582680.6.peg.45|RS86_00045|	Two component system sensor histidine kinase MtrB   [Microbacterium azadirachtae strain ARN176 | 582680.6]	PATRIC
+HOG12628.fa	WP_019838428.1	0.001	fig|470.3344.peg.3219|B4R42_05655|	Mobile element protein   [Acinetobacter baumannii strain ABUH343 | 470.3344]	VFDB
+HOG12647.fa	WP_016138737.1	4.69e-15	fig|470.6507.peg.3924|	Enterobactin synthetase component F, serine activating enzyme (EC 2.7.7.-)   [Acinetobacter baumannii strain 468 | 470.6507]	VFDB
+HOG1272.fa	WP_000113707.1	8.31e-10	fig|1736225.3.peg.4166|ASF13_13455|	Transcriptional regulator of acrAB operon, AcrR   [Erwinia sp. Leaf53 | 1736225.3]	PATRIC
+HOG1276.fa	WP_092748185.1	5.07e-27	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1277.fa	WP_089606168.1	1.85e-08	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1278.fa	WP_001130358.1	1.18e-26	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1279.fa	WP_023273123.1	2.28e-27	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1280.fa	WP_001091973.1	1.81e-21	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1281.fa	WP_004749392.1	3.82e-15	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1282.fa	WP_004937677.1	2.14e-17	fig|470.9257.peg.1701|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1283.fa	WP_070070315.1	9.36e-29	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG12840.fa	WP_016659755.1	8.06e-06	fig|470.10960.peg.3639|	Virulence-associated cell-wall-anchored protein SasH (LPXTG motif); 5'-nucleotidase (EC 3.1.3.5)   [Acinetobacter baumannii strain AS012739 | 470.10960]	VFDB
+HOG1284.fa	WP_001984018.1	9.71e-24	fig|470.5622.peg.8160|SAMEA104305299_03202|	ABC transporter, ATP-binding protein   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG1285.fa	WP_097078694.1	2.07e-23	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1286.fa	WP_097078698.1	4.12e-15	fig|470.9257.peg.1701|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1287.fa	WP_000582118.1	3.64e-51	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1288.fa	WP_007481413.1	4.28e-20	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG12890.fa	WP_016655160.1	5.31e-32	fig|470.6998.peg.2396|	Zinc metalloproteinase aureolysin (EC 3.4.24.29)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG1289.fa	WP_016657867.1	2.65e-22	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1290.fa	WP_000183289.1	7.51e-26	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1291.fa	WP_009389228.1	1.01e-32	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG12929.fa	WP_016655904.1	2.08e-30	fig|470.5054.peg.5726|BQ1898_00038|	Transcriptional regulator PchR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1292.fa	WP_000253309.1	1.50e-23	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG12932.fa	WP_081408711.1	3.22e-04	fig|470.6998.peg.730|	Heme transporter IsdDEF, lipoprotein IsdE   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG12934.fa	WP_016655977.1	3.46e-82	fig|470.5054.peg.3254|BQ1898_01299|	VgrG protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1293.fa	WP_000438622.1	1.75e-27	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG12945.fa	WP_016656168.1	2.26e-16	fig|470.7268.peg.7481|	Type-1 fimbrial protein, A chain   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1294.fa	WP_000114479.1	3.61e-17	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG12958.fa	WP_016656237.1	2.31e-08	fig|470.5622.peg.8181|SAMEA104305299_03223|	Phenazine modifying protein PhzH / Asparagine synthetase [glutamine-hydrolyzing] (EC 6.3.5.4)   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG1295.fa	WP_004903597.1	1.92e-22	fig|470.5622.peg.8160|SAMEA104305299_03202|	ABC transporter, ATP-binding protein   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG12963.fa	WP_092746700.1	1.15e-07	fig|470.5623.peg.7408|	Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG1296.fa	WP_001132006.1	2.79e-24	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1297.fa	WP_000614439.1	4.35e-43	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG12987.fa	WP_016656634.1	5.87e-10	fig|470.3274.peg.3104|BS570_07345|	Tetracycline resistance regulatory protein TetR   [Acinetobacter baumannii strain Ab54_GEIH-2010 | 470.3274]	VFDB
+HOG1298.fa	WP_000904332.1	5.38e-22	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG1299.fa	WP_087620990.1	1.69e-21	fig|470.5622.peg.8160|SAMEA104305299_03202|	ABC transporter, ATP-binding protein   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG1300.fa	WP_001000098.1	3.86e-18	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1301.fa	WP_061392292.1	2.50e-21	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG13021.fa	WP_016657451.1	5.58e-41	fig|471.22.peg.12|A9988_18820|	CFA/I fimbrial major subunit   [Acinetobacter calcoaceticus strain EGD_AQ_BF14 | 471.22]	VFDB
+HOG13030.fa	WP_016657748.1	2.29e-04	fig|1120980.3.peg.1802|	Transcriptional regulator of acrAB operon, AcrR   [Alysiella crassa DSM 2578 | 1120980.3]	PATRIC
+HOG13045.fa	WP_081408732.1	1.42e-09	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG13048.fa	WP_016657920.1	3.96e-10	fig|470.7268.peg.7481|	Type-1 fimbrial protein, A chain   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG13075.fa	WP_051145773.1	5.79e-06	fig|470.5054.peg.3260|BQ1898_01305|	T6SS component TssG (ImpH/VasB)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1310.fa	WP_000117542.1	1.63e-178	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1311.fa	WP_000117601.1	1.26e-29	fig|470.5054.peg.950|BQ1898_06231|	Trans-2,3-dihydro-3-hydroxyanthranilate isomerase (EC 5.3.3.17)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG13145.fa	WP_086492247.1	3.35e-05	fig|1435036.7.peg.3856|F7P73_18675|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter bohemicus strain CCUG 69707 | 1435036.7]	VFDB
+HOG13176.fa	WP_001255015.1	1.46e-06	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG13183.fa	WP_024439773.1	1.91e-16	fig|1519492.3.peg.2859|ADL03_13435|	Two component system sensor histidine kinase MtrB   [Nocardia sp. NRRL S-836 | 1519492.3]	PATRIC
+HOG13188.fa	WP_001279060.1	4.29e-18	fig|470.3778.peg.541|A7A38_04775|	Aminoglycoside 3''-nucleotidyltransferase (EC 2.7.7.-) => ANT(3'')-Ia (AadA family)   [Acinetobacter baumannii strain AB462 | 470.3778]	VFDB
+HOG1323.fa	WP_000119871.1	1.02e-37	fig|470.5054.peg.7564|BQ1898_04407|	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG13327.fa	WP_025095519.1	1.21e-05	fig|469613.3.peg.1246|HMPREF0864_02073|VBIEntBac91544_1246|	Transcriptional regulator of acrAB operon, AcrR   [Enterobacteriaceae bacterium 9_2_54FAA | 469613.3]	PATRIC
+HOG13349.fa	WP_031947074.1	1.87e-08	fig|659495.3.peg.2849|VBICatAga143275_2849|	Transcriptional regulator of acrAB operon, AcrR   [Catenovulum agarivorans YM01 | 659495.3]	PATRIC
+HOG13380.fa	WP_081103750.1	3.14e-09	fig|470.6778.peg.4906|	hypothetical protein   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG13407.fa	WP_061403570.1	0.005	fig|470.5054.peg.3659|BQ1898_02758|	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG13417.fa	WP_005013818.1	4.54e-04	fig|2047.9.peg.1638|	Lipoprotein LpqB, modulates activity of MtrAB two-component system   [Rothia dentocariosa strain 316_RDEN | 2047.9]	PATRIC
+HOG13574.fa	WP_000156164.1	5.09e-05	fig|1229489.3.peg.2978|VBIBetPro254082_2978|	Transcriptional regulator of acrAB operon, AcrR   [beta proteobacterium L13 | 1229489.3]	PATRIC
+HOG1360.fa	WP_000128669.1	1.70e-17	fig|470.9257.peg.3613|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG13686.fa	WP_000422372.1	5.25e-07	fig|883161.3.peg.1072|HMPREF9306_01076|VBIProLym171244_1072|	Two component system sensor histidine kinase MtrB   [Propionimicrobium lymphophilum ACS-093-V-SCH5 | 883161.3]	PATRIC
+HOG1374.fa	WP_019385201.1	2.49e-90	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1375.fa	WP_000129948.1	7.09e-34	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1376.fa	WP_004910163.1	2.23e-41	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1377.fa	WP_005041760.1	1.89e-36	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1378.fa	WP_044112282.1	8.66e-37	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG13831.fa	WP_045795657.1	1.23e-21	fig|1064537.3.peg.684|VBIBraPar219632_0684|	Two component system response regulator MtrA   [Brachybacterium paraconglomeratum LC44 | 1064537.3]	PATRIC
+HOG13848.fa	WP_087662196.1	0.008	fig|1206735.3.peg.4355|VBINocTak250272_4355|	Lipoprotein LpqB, modulates activity of MtrAB two-component system   [Nocardia takedensis NBRC 100417 | 1206735.3]	PATRIC
+HOG13849.fa	WP_000055239.1	1.61e-06	fig|470.10130.peg.7345|	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG13867.fa	WP_070076857.1	0.008	fig|470.5054.peg.6888|BQ1898_05712|	Flagellar hook-length control protein FliK   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG13897.fa	WP_053577922.1	2.84e-04	fig|470.9260.peg.7626|	Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)   [Acinetobacter baumannii strain abaGIM | 470.9260]	VFDB
+HOG13928.fa	WP_067665616.1	0.010	fig|1115512.3.peg.3441|EH105704_15_00090|VBIEscHer221289_3441|	Multidrug resistance regulator EmrR (MprA)   [Escherichia hermannii NBRC 105704 | 1115512.3]	PATRIC
+HOG13939.fa	WP_002114204.1	7.26e-27	fig|470.5054.peg.1480|BQ1898_06146|	T6SS component TssK (ImpJ/VasE)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1394.fa	WP_000131443.1	7.05e-30	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1396.fa	WP_000132122.1	8.06e-11	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1399.fa	WP_000132357.1	3.07e-08	fig|470.9210.peg.3632|	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)   [Acinetobacter baumannii strain 20823 | 470.9210]	VFDB
+HOG14016.fa	WP_061525326.1	0.005	fig|471.60.peg.835|EC844_103151|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter calcoaceticus strain JUb89 | 471.60]	VFDB
+HOG14040.fa	WP_062848781.1	2.18e-05	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG14043.fa	WP_074947287.1	1.83e-20	fig|470.5054.peg.1485|	T6SS Serine/threonine protein kinase (EC 2.7.11.1) PpkA   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG14096.fa	WP_081406374.1	3.83e-15	fig|1215104.3.peg.4206|	Alginate biosynthesis two-component system sensor histidine kinase KinB   [Pseudomonas japonica NBRC 103040 = DSM 22348 | 1215104.3]	PATRIC
+HOG14148.fa	WP_097079281.1	3.07e-09	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG14176.fa	WP_085064715.1	8.55e-34	fig|2004649.3.peg.363|	ISSod13, transposase   [Acinetobacter sp. WCHA29 strain WCHA29 | 2004649.3]	VFDB
+HOG14179.fa	WP_097079949.1	6.32e-06	fig|1191523.3.peg.1334|MROS_1256|VBIMelRos241275_1334|	Transcriptional regulator of acrAB operon, AcrR   [Melioribacter roseus P3M-2 | 1191523.3]	PATRIC
+HOG14185.fa	WP_097080087.1	0.006	fig|470.5054.peg.5654|BQ1898_06311|	RNA polymerase sigma factor RpoE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG141.fa	WP_000005681.1	2.66e-05	fig|470.5054.peg.5736|BQ1898_00048|	FAD-dependent monooxygenase PhzS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG14246.fa	WP_087620667.1	5.38e-06	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG14253.fa	WP_087621038.1	2.49e-38	fig|470.6998.peg.455|	Capsular polysaccharide synthesis enzyme Cap8M   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG14254.fa	WP_087621136.1	0.007	fig|208964.12.peg.5748|PA5483|VBIPseAer58763_5748|	Alginate biosynthesis two-component system response regulator AlgB   [Pseudomonas aeruginosa PAO1 | 208964.12]	PATRIC
+HOG14263.fa	WP_092716967.1	3.58e-07	fig|349967.4.peg.122|ymoll0001_10990|VBIYerMol36980_0122|	Transcriptional regulator of acrAB operon, AcrR   [Yersinia mollaretii ATCC 43969 | 349967.4]	PATRIC
+HOG1439.fa	WP_000146915.1	7.34e-11	fig|470.6721.peg.2347|	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG1476.fa	WP_000161505.1	2.54e-47	fig|1117379.3.peg.1304|BABA_06241|VBIBacBat217866_1304|	Two component system response regulator MtrA   [Bacillus bataviensis LMG 21833 | 1117379.3]	PATRIC
+HOG1478.fa	WP_000163427.1	1.76e-09	fig|1443113.3.peg.1229|LC20_01238|VBIYerEnt327249_1229|	Multidrug resistance regulator EmrR (MprA)   [Yersinia enterocolitica LC20 | 1443113.3]	PATRIC
+HOG1489.fa	WP_000166965.1	5.05e-06	fig|1218112.3.peg.1744|	Transcriptional regulator of acrAB operon, AcrR   [Kluyvera cryocrescens NBRC 102467 | 1218112.3]	PATRIC
+HOG1552.fa	WP_000177084.1	3.31e-10	fig|470.5054.peg.664|BQ1898_05291|	Transcriptional regulator, AraC family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1566.fa	WP_005243352.1	3.04e-12	fig|470.5623.peg.4093|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG1567.fa	WP_001002959.1	4.05e-25	fig|470.5623.peg.4093|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG1568.fa	WP_004865828.1	2.89e-15	fig|470.5054.peg.5725|BQ1898_00037|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [pyochelin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1569.fa	WP_000910263.1	4.04e-60	fig|470.5054.peg.5728|BQ1898_00040|	Pyochelin synthetase PchF, non-ribosomal peptide synthetase module @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1570.fa	WP_001060987.1	4.94e-117	fig|470.5685.peg.6262|SAMEA104305377_05788|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045877 | 470.5685]	VFDB
+HOG1571.fa	WP_070069551.1	1.64e-31	fig|470.7268.peg.3001|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1572.fa	WP_005106962.1	1.16e-61	fig|470.7268.peg.3001|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1573.fa	WP_004925140.1	4.74e-33	fig|470.5054.peg.5725|BQ1898_00037|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [pyochelin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1574.fa	WP_067667104.1	3.36e-26	fig|470.7268.peg.3001|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1575.fa	WP_001183739.1	5.22e-43	fig|470.7268.peg.3001|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1576.fa	WP_016167969.1	1.96e-35	fig|470.5623.peg.4093|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG1577.fa	WP_074947855.1	4.43e-07	fig|470.10130.peg.7344|	iron aquisition 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58,Irp5) @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1578.fa	WP_000279952.1	1.22e-124	fig|470.5623.peg.4092|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG1579.fa	WP_000744376.1	0.0	fig|470.7268.peg.3001|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1597.fa	WP_000191300.1	8.75e-25	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1617.fa	WP_000195199.1	2.59e-04	fig|351671.5.peg.899|XDD1_0899|	Transcriptional regulator of acrAB operon, AcrR   [Xenorhabdus doucetiae strain FRM16 = DSM 17909 | 351671.5]	PATRIC
+HOG1624.fa	WP_001138980.1	8.58e-12	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1625.fa	WP_019457330.1	3.13e-09	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1627.fa	WP_000814791.1	9.28e-11	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1634.fa	WP_065993869.1	9.90e-06	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1640.fa	WP_016656323.1	1.76e-06	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1642.fa	WP_000987209.1	2.58e-05	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1643.fa	WP_000197530.1	3.54e-08	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1644.fa	WP_000988610.1	2.20e-07	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1645.fa	WP_000542611.1	1.09e-159	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG1652.fa	WP_000200062.1	4.21e-35	fig|1561081.3.peg.3275|	Nicotinamidase family protein YcaC   [Acinetobacter genomosp. NB14 strain JVAP01 | 1561081.3]	VFDB
+HOG1653.fa	WP_001043290.1	9.76e-27	fig|1561081.3.peg.3275|	Nicotinamidase family protein YcaC   [Acinetobacter genomosp. NB14 strain JVAP01 | 1561081.3]	VFDB
+HOG1658.fa	WP_070153532.1	2.26e-36	fig|470.5054.peg.1501|BQ1898_05451|	Type IV pilus biogenesis protein PilN   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1698.fa	WP_017393239.1	2.96e-28	fig|470.5054.peg.950|BQ1898_06231|	Trans-2,3-dihydro-3-hydroxyanthranilate isomerase (EC 5.3.3.17)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1701.fa	WP_000209091.1	2.40e-28	fig|470.10130.peg.7335|	Salicylate synthetase (EC 5.4.4.2)(EC 4.2.99.21) @ Salicylate synthetase (EC 5.4.4.2)(EC 4.2.99.21) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1705.fa	WP_000550502.1	1.59e-27	fig|470.6998.peg.3814|	Virulence-associated cell-wall-anchored protein SasH (LPXTG motif); 5'-nucleotidase (EC 3.1.3.5)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG1708.fa	WP_000209960.1	3.62e-58	fig|470.5054.peg.7564|BQ1898_04407|	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1720.fa	WP_000211588.1	6.59e-13	fig|470.5651.peg.9442|SAMEA104305337_02073|	Pyoverdin biosynthesis protein PvdN, putative aminotransferase, class V   [Acinetobacter baumannii strain 4300STDY7045842 | 470.5651]	VFDB
+HOG1741.fa	WP_005197974.1	1.85e-06	fig|570952.3.peg.1424|VBIFodSed81600_1424|	Transcriptional regulator of acrAB operon, AcrR   [Fodinicurvata sediminis DSM 21159 | 570952.3]	PATRIC
+HOG1760.fa	WP_000224581.1	5.60e-07	fig|796334.4.peg.1965|	Transcriptional regulator of acrAB operon, AcrR   [Erwinia oleae DAPP-PG531 | 796334.4]	PATRIC
+HOG1763.fa	WP_000224843.1	6.43e-89	fig|470.5054.peg.3682|BQ1898_02781|	3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1790.fa	WP_000240701.1	3.39e-69	fig|470.6988.peg.4079|	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108)   [Acinetobacter baumannii strain MRSN7414 | 470.6988]	VFDB
+HOG1811.fa	WP_016541288.1	6.67e-08	fig|1224318.4.peg.2958|DT73_14785|	Transcriptional regulator of acrAB operon, AcrR   [Mangrovibacter sp. MFB070 | 1224318.4]	PATRIC
+HOG1812.fa	WP_000253055.1	1.87e-46	fig|470.5054.peg.5725|BQ1898_00037|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [pyochelin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1854.fa	WP_000269792.1	1.15e-64	fig|216142.3.peg.3315|	Alginate biosynthesis two-component system sensor histidine kinase AlgZ/FimS   [Pseudomonas rhizosphaerae DSM 16299 | 216142.3]	PATRIC
+HOG185.fa	WP_001086065.1	1.20e-13	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1861.fa	WP_000273193.1	5.86e-34	fig|1112217.3.peg.1767|PPL19_09186|VBIPsePsy221927_1767|	Alginate biosynthesis two-component system sensor histidine kinase KinB   [Pseudomonas psychrotolerans L19 | 1112217.3]	PATRIC
+HOG1865.fa	WP_002134457.1	2.05e-06	fig|470.5054.peg.1056|BQ1898_05992|	Pyoverdin biosynthesis protein PvdN, putative aminotransferase, class V   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1879.fa	WP_000279216.1	4.64e-59	fig|470.5054.peg.7081|BQ1898_00412|	General secretion pathway protein F   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG188.fa	WP_001035486.1	1.34e-11	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1893.fa	WP_000289452.1	3.58e-93	fig|470.6998.peg.2487|	ATP-dependent Clp protease proteolytic subunit ClpP (EC 3.4.21.92)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG1899.fa	WP_000301461.1	2.34e-37	fig|470.5054.peg.7086|BQ1898_00417|	General secretion pathway protein K   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG189.fa	WP_000701528.1	1.77e-20	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG190.fa	WP_000877608.1	1.16e-12	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1926.fa	WP_000656411.1	0.004	fig|470.6948.peg.4117|	Adhesin of unknown specificity SdrE, similar to bone sialoprotein-binding protein Bbp   [Acinetobacter baumannii strain MRSN7366 | 470.6948]	VFDB
+HOG192.fa	WP_000834593.1	6.31e-12	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG1941.fa	WP_000347036.1	0.0	fig|470.5054.peg.685|BQ1898_05311|	Type IV pilus assembly ATPase component PilU   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG194.fa	WP_039621889.1	5.73e-10	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG195.fa	WP_031969743.1	1.00e-14	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1960.fa	WP_000355489.1	0.0	fig|1051623.3.peg.2667|UC75_11150|	Twitching motility protein PilT   [Acinetobacter sp. V2 | 1051623.3]	VFDB
+HOG196.fa	WP_000600019.1	6.23e-17	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1970.fa	WP_000362312.1	1.74e-05	fig|470.5054.peg.5654|BQ1898_06311|	RNA polymerase sigma factor RpoE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG198.fa	WP_061391897.1	9.59e-16	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG1992.fa	WP_000380899.1	3.98e-56	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG1999.fa	WP_016140919.1	3.44e-10	fig|1470200.3.peg.2010|PL75_04310|	Multidrug resistance regulator EmrR (MprA)   [Neisseria sp. KH1503 | 1470200.3]	PATRIC
+HOG199.fa	WP_016163281.1	3.40e-20	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2000.fa	WP_016657531.1	2.54e-11	fig|1157951.4.peg.3073|S70_15260|VBIProStu236675_3073|	Multidrug resistance regulator EmrR (MprA)   [Providencia stuartii MRSN 2154 | 1157951.4]	PATRIC
+HOG2001.fa	WP_000042163.1	6.70e-06	fig|470.6507.peg.5314|	putative regulator PapX protein   [Acinetobacter baumannii strain 468 | 470.6507]	VFDB
+HOG2002.fa	WP_000252463.1	5.15e-06	fig|1051985.3.peg.1119|l11_11070|VBINeiWea211106_1119|	Multidrug resistance regulator EmrR (MprA)   [Neisseria weaveri LMG 5135 | 1051985.3]	PATRIC
+HOG2007.fa	WP_000375838.1	3.39e-04	fig|585054.5.peg.2467|EFER_2553|VBIEscFer122920_2467|	Transcriptional regulator of acrAB operon, AcrR   [Escherichia fergusonii ATCC 35469 | 585054.5]	PATRIC
+HOG200.fa	WP_005229217.1	4.17e-13	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2016.fa	WP_000377865.1	2.04e-04	fig|470.5623.peg.4092|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG201.fa	WP_070074509.1	2.94e-04	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG202.fa	WP_000697819.1	1.54e-10	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2031.fa	WP_000389061.1	6.75e-86	fig|2060938.3.peg.2670|	twitching motility protein PilG   [Acinetobacter sp. B51(2017) strain B51(2017) strain B51(2017) strain B51(2017) | 2060938.3]	VFDB
+HOG203.fa	WP_025095516.1	5.78e-22	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG204.fa	WP_004903375.1	3.23e-19	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG205.fa	WP_004749347.1	7.29e-18	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2062.fa	WP_000411991.1	1.84e-41	fig|470.5054.peg.5725|BQ1898_00037|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [pyochelin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG206.fa	WP_092750170.1	2.21e-21	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2076.fa	WP_000420545.1	0.001	fig|1519494.3.peg.973|ADL05_04510|	Lipoprotein LpqB, modulates activity of MtrAB two-component system   [Nocardiopsis sp. NRRL B-16309 | 1519494.3]	PATRIC
+HOG207.fa	WP_004902190.1	1.38e-22	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG208.fa	WP_023273788.1	4.57e-24	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG209.fa	WP_023273973.1	6.67e-28	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2104.fa	WP_001058609.1	2.61e-44	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2107.fa	WP_000442893.1	7.69e-23	fig|470.6721.peg.2347|	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG210.fa	WP_004903355.1	3.27e-26	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2110.fa	WP_000445471.1	9.39e-19	fig|470.9259.peg.2655|	Type 1 fimbriae regulatory protein FimE   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG2119.fa	WP_000449051.1	0.001	fig|470.5054.peg.1484|BQ1898_06150|	T6SS protein serine/threonine phosphatase PppA   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG211.fa	WP_004900663.1	6.21e-26	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2128.fa	WP_000459547.1	3.42e-42	fig|1224163.3.peg.698|B841_03475|VBICorMar256873_0698|	Two component system response regulator MtrA   [Corynebacterium maris DSM 45190 | 1224163.3]	PATRIC
+HOG2129.fa	WP_068889473.1	4.13e-11	fig|680646.3.peg.575|RMDY18_06650|VBIRotMuc152186_0575|	Two component system response regulator MtrA   [Rothia mucilaginosa DY-18 | 680646.3]	PATRIC
+HOG212.fa	WP_004901366.1	8.46e-12	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2130.fa	WP_005104656.1	3.17e-04	fig|76636.3.peg.2464|	Two component system response regulator MtrA   [Mycetocola saprophilus strain NRRL B-24119 | 76636.3]	PATRIC
+HOG2131.fa	WP_000526534.1	1.78e-40	fig|525245.3.peg.567|HMPREF0044_0836|VBIActCol28478_0567|	Two component system response regulator MtrA   [Actinomyces coleocanis DSM 15436 | 525245.3]	PATRIC
+HOG2132.fa	WP_001221450.1	2.83e-52	fig|1117379.3.peg.1304|BABA_06241|VBIBacBat217866_1304|	Two component system response regulator MtrA   [Bacillus bataviensis LMG 21833 | 1117379.3]	PATRIC
+HOG2133.fa	WP_004751608.1	1.25e-40	fig|1170318.3.peg.905|PALO_04395|VBIProAvi230658_0905|	Two component system response regulator MtrA   [Propionibacterium avidum 44067 | 1170318.3]	PATRIC
+HOG2134.fa	WP_001221370.1	5.62e-55	fig|1117379.3.peg.1304|BABA_06241|VBIBacBat217866_1304|	Two component system response regulator MtrA   [Bacillus bataviensis LMG 21833 | 1117379.3]	PATRIC
+HOG2135.fa	WP_004722337.1	1.02e-55	fig|1117379.3.peg.1304|BABA_06241|VBIBacBat217866_1304|	Two component system response regulator MtrA   [Bacillus bataviensis LMG 21833 | 1117379.3]	PATRIC
+HOG2139.fa	WP_000460568.1	6.30e-24	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG213.fa	WP_045794300.1	4.62e-15	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG214.fa	WP_045794111.1	1.04e-08	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG215.fa	WP_000682841.1	2.61e-15	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2164.fa	WP_000471448.1	1.35e-46	fig|470.5054.peg.1480|BQ1898_06146|	T6SS component TssK (ImpJ/VasE)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2167.fa	WP_000472465.1	1.98e-37	fig|1125718.3.peg.1728|HMPREF1318_2476|VBIActMas238937_1728|	Two component system sensor histidine kinase MtrB   [Actinomyces massiliensis F0489 | 1125718.3]	PATRIC
+HOG216.fa	WP_000071232.1	3.62e-16	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2175.fa	WP_000476843.1	4.93e-128	fig|1217674.3.peg.1256|F940_01280|VBIAciRad257455_1256|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter radioresistens NIPH 2130 | 1217674.3]	VFDB
+HOG2176.fa	WP_001061486.1	4.13e-11	fig|108980.26.peg.1685|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter ursingii strain UBA7853 | 108980.26]	VFDB
+HOG2177.fa	WP_097078094.1	0.0	fig|1096779.3.peg.2525|SAMN05421731_101220|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter puyangensis strain ANC 4466 | 1096779.3]	VFDB
+HOG2178.fa	WP_000999449.1	4.44e-124	fig|1217674.3.peg.1256|F940_01280|VBIAciRad257455_1256|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter radioresistens NIPH 2130 | 1217674.3]	VFDB
+HOG217.fa	WP_061525402.1	6.24e-13	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2180.fa	WP_000477156.1	1.15e-10	fig|470.5054.peg.1893|BQ1898_02622|	Type IV fimbrial biogenesis protein FimT   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG218.fa	WP_046813611.1	1.60e-05	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2194.fa	WP_000489713.1	2.09e-23	fig|470.10130.peg.7336|	Putative signal transducer   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG219.fa	WP_000190710.1	2.66e-24	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2202.fa	WP_000457358.1	6.46e-04	fig|470.9259.peg.2007|	Bactoprenol-linked glucose translocase   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG220.fa	WP_000432325.1	6.25e-22	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2219.fa	WP_000505931.1	0.0	fig|470.5054.peg.669|BQ1898_05296|	twitching motility protein PilJ   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG221.fa	WP_001019900.1	2.13e-26	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG222.fa	WP_000365670.1	1.20e-15	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG223.fa	WP_031983534.1	5.94e-06	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG224.fa	WP_061874396.1	1.11e-10	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG225.fa	WP_000121945.1	9.93e-17	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG226.fa	WP_005062172.1	2.33e-14	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2270.fa	WP_000537691.1	9.72e-32	fig|470.5054.peg.5202|BQ1898_04478|	Type IV pilus biogenesis protein PilF   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG227.fa	WP_000880601.1	6.54e-21	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2280.fa	WP_004998642.1	4.14e-10	fig|1523424.3.peg.3451|IP80_05280|	Transcriptional regulator of acrAB operon, AcrR   [beta proteobacterium AAP65 | 1523424.3]	PATRIC
+HOG2281.fa	WP_067726210.1	1.29e-07	fig|1349789.5.peg.2072|	Transcriptional repressor of CmeABC operon, CmeR   [Sulfurospirillum arsenophilum NBRC 109478 | 1349789.5]	PATRIC
+HOG2282.fa	WP_031948459.1	4.22e-11	fig|273121.8.peg.724|WS0767|VBIWolSuc63014_0724|	Transcriptional repressor of CmeABC operon, CmeR   [Wolinella succinogenes DSM 1740 | 273121.8]	PATRIC
+HOG2283.fa	WP_004790547.1	6.02e-10	fig|1349788.5.peg.336|	Transcriptional repressor of CmeABC operon, CmeR   [Sulfurospirillum cavolei NBRC 109482 | 1349788.5]	PATRIC
+HOG2284.fa	WP_001195320.1	2.64e-15	fig|1548151.3.peg.1028|LS70_01330|	Transcriptional repressor of CmeABC operon, CmeR   [Helicobacter sp. MIT 11-5569 | 1548151.3]	PATRIC
+HOG2285.fa	WP_000543877.1	2.41e-19	fig|360107.7.peg.548|CHAB381_0566|VBICamHom81367_0548|	Transcriptional repressor of CmeABC operon, CmeR   [Campylobacter hominis ATCC BAA-381 | 360107.7]	PATRIC
+HOG2286.fa	WP_001278399.1	5.01e-19	fig|273121.8.peg.724|WS0767|VBIWolSuc63014_0724|	Transcriptional repressor of CmeABC operon, CmeR   [Wolinella succinogenes DSM 1740 | 273121.8]	PATRIC
+HOG2289.fa	WP_000546629.1	7.72e-09	fig|470.5054.peg.1891|BQ1898_02620|	Type IV fimbrial biogenesis protein PilV   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG228.fa	WP_000872847.1	7.36e-11	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2298.fa	WP_000547772.1	0.004	fig|470.6998.peg.454|	Capsular polysaccharide synthesis enzyme Cap8N   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG229.fa	WP_000207243.1	2.42e-04	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG230.fa	WP_089605686.1	2.02e-28	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2314.fa	WP_000550787.1	1.15e-09	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG231.fa	WP_000024374.1	1.29e-22	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2328.fa	WP_000556919.1	2.22e-113	fig|470.5054.peg.1482|BQ1898_06148|	T6SS component TssM (IcmF/VasK)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG232.fa	WP_001024688.1	6.94e-23	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG233.fa	WP_000815907.1	1.80e-14	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2347.fa	WP_000568820.1	2.44e-60	fig|470.5054.peg.3261|BQ1898_01306|	T6SS component TssF (ImpG/VasA)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG234.fa	WP_000009975.1	1.45e-20	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG235.fa	WP_001257946.1	9.95e-55	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2369.fa	WP_000957990.1	7.29e-06	fig|470.7100.peg.4213|	Tyrosine-protein kinase EpsD (EC 2.7.10.2) / Capsular polysaccharide synthesis enzyme Cap5B   [Acinetobacter baumannii strain MRSN7591 | 470.7100]	VFDB
+HOG236.fa	WP_001027017.1	1.47e-17	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2379.fa	WP_000590088.1	2.23e-06	fig|360106.6.peg.123|CFF8240_0120|VBICamFet25865_0123|	Transcriptional repressor of CmeABC operon, CmeR   [Campylobacter fetus subsp. fetus 82-40 | 360106.6]	PATRIC
+HOG237.fa	WP_000049718.1	1.71e-08	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG238.fa	WP_000163857.1	5.80e-20	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2393.fa	WP_081400006.1	2.12e-37	fig|470.7268.peg.5072|	Outer membrane usher protein FimD   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2395.fa	WP_001124962.1	8.01e-92	fig|470.7268.peg.7484|	Outer membrane usher protein FimD   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2397.fa	WP_000604788.1	2.55e-09	fig|470.6998.peg.454|	Capsular polysaccharide synthesis enzyme Cap8N   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG239.fa	WP_000238432.1	5.08e-29	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2404.fa	WP_000608735.1	2.37e-23	fig|470.3453.peg.3429|CAT54_11265|	Integron integrase IntI1   [Acinetobacter baumannii strain ARLG1840 | 470.3453]	VFDB
+HOG240.fa	WP_005009570.1	1.63e-53	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2418.fa	WP_000614025.1	2.35e-25	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG241.fa	WP_004717686.1	7.30e-20	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG242.fa	WP_067671854.1	4.15e-24	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2434.fa	WP_000625253.1	1.60e-48	fig|1278298.3.peg.928|VBIActSla277899_0928|	Two component system response regulator MtrA   [Actinomyces slackii ATCC 49928 | 1278298.3]	PATRIC
+HOG243.fa	WP_004780050.1	1.35e-12	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2449.fa	WP_000632985.1	7.73e-131	fig|470.5054.peg.7751|BQ1898_00606|	Phospholipase C (EC 3.1.4.3) => hemolytic PlcH   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG244.fa	WP_068887755.1	4.20e-30	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2454.fa	WP_000633799.1	3.73e-15	fig|470.5054.peg.671|BQ1898_05298|	twitching motility protein PilH   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG245.fa	WP_092690078.1	6.13e-16	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG246.fa	WP_010326711.1	3.24e-28	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG247.fa	WP_058971971.1	2.65e-20	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2484.fa	WP_000646456.1	1.72e-06	fig|470.7167.peg.3837|	UTP--glucose-1-phosphate uridylyltransferase (EC 2.7.7.9)   [Acinetobacter baumannii strain MRSN7707 | 470.7167]	VFDB
+HOG248.fa	WP_058870073.1	8.83e-09	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2491.fa	WP_000650776.1	3.19e-52	fig|680646.3.peg.575|RMDY18_06650|VBIRotMuc152186_0575|	Two component system response regulator MtrA   [Rothia mucilaginosa DY-18 | 680646.3]	PATRIC
+HOG2496.fa	WP_000653195.1	2.91e-14	fig|470.5054.peg.3265|BQ1898_01309|	T6SS component Hcp   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG249.fa	WP_064096705.1	8.95e-19	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2503.fa	WP_000658883.1	3.87e-55	fig|470.5623.peg.6174|SAMEA104305315_01784|	still frameshift probable component of chemotactic signal transduction system   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG250.fa	WP_005029788.1	2.94e-12	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG251.fa	WP_005019809.1	7.01e-23	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2528.fa	WP_001366550.1	2.07e-13	fig|470.3734.peg.3536|B4S00_02975|	hypothetical protein   [Acinetobacter baumannii strain ABUH526 | 470.3734]	VFDB
+HOG2529.fa	WP_000258666.1	2.33e-07	fig|470.3734.peg.3536|B4S00_02975|	hypothetical protein   [Acinetobacter baumannii strain ABUH526 | 470.3734]	VFDB
+HOG252.fa	WP_092620785.1	4.07e-08	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2534.fa	WP_000680577.1	3.30e-54	fig|1224163.3.peg.698|B841_03475|VBICorMar256873_0698|	Two component system response regulator MtrA   [Corynebacterium maris DSM 45190 | 1224163.3]	PATRIC
+HOG2538.fa	WP_004992723.1	2.28e-11	fig|470.6721.peg.2347|	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG253.fa	WP_070070930.1	1.89e-08	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2541.fa	WP_000686128.1	3.54e-10	fig|470.5054.peg.3164|BQ1898_05563|	GDP-mannose 6-dehydrogenase (EC 1.1.1.132)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2542.fa	WP_001175092.1	3.40e-58	fig|470.6998.peg.453|	UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG254.fa	WP_087619759.1	7.45e-07	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2552.fa	WP_000695065.1	3.47e-30	fig|470.5054.peg.1503|BQ1898_05453|	Type IV pilus biogenesis protein PilP   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG255.fa	WP_087619237.1	1.36e-19	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG256.fa	WP_092619718.1	3.29e-07	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG257.fa	WP_092620002.1	3.61e-11	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG258.fa	WP_097079527.1	2.05e-27	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2596.fa	WP_092689597.1	0.004	fig|470.5054.peg.3659|BQ1898_02758|	UDP-glucose:(heptosyl) LPS alpha1,3-glucosyltransferase WaaG   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG259.fa	WP_087619968.1	3.87e-27	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2609.fa	WP_000713424.1	1.06e-17	fig|470.7268.peg.5073|	Protein FimF (regulates length and adhesion of type 1 fimbriae)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG260.fa	WP_092620165.1	2.13e-29	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2617.fa	WP_000717764.1	3.90e-40	fig|470.5054.peg.1048|BQ1898_05984|	L-ornithine 5-monooxygenase (EC 1.13.12.-), PvdA of pyoverdin biosynthesis @ Siderophore biosynthesis protein, monooxygenase   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2618.fa	WP_000883669.1	1.59e-45	fig|470.5054.peg.1048|BQ1898_05984|	L-ornithine 5-monooxygenase (EC 1.13.12.-), PvdA of pyoverdin biosynthesis @ Siderophore biosynthesis protein, monooxygenase   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2619.fa	WP_000717541.1	1.65e-12	fig|470.6998.peg.452|	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG261.fa	WP_070070340.1	3.15e-07	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2620.fa	WP_081401979.1	5.25e-31	fig|470.6998.peg.452|	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG2621.fa	WP_000718059.1	7.38e-99	fig|470.6998.peg.452|	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG2622.fa	WP_020753454.1	1.41e-119	fig|470.6998.peg.452|	UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG262.fa	WP_097077726.1	1.42e-15	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG263.fa	WP_097080473.1	1.72e-18	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG264.fa	WP_087618849.1	2.93e-17	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2652.fa	WP_000729758.1	6.31e-42	fig|470.5054.peg.670|BQ1898_05297|	type IV pili signal transduction protein PilI   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2657.fa	WP_000731728.1	0.005	fig|470.7020.peg.4349|	Adhesin of unknown specificity SdrD   [Acinetobacter baumannii strain MRSN7468 | 470.7020]	VFDB
+HOG265.fa	WP_087621371.1	2.96e-24	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG266.fa	WP_087621887.1	9.13e-16	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG267.fa	WP_097080153.1	7.08e-18	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG268.fa	WP_087621192.1	2.87e-28	fig|470.7268.peg.2999|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2734.fa	WP_044103099.1	4.76e-09	fig|470.5054.peg.1057|BQ1898_05993|	PvdO, pyoverdine responsive serine/threonine kinase (predicted by OlgaV)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2735.fa	WP_000769060.1	2.42e-13	fig|470.5054.peg.1057|BQ1898_05993|	PvdO, pyoverdine responsive serine/threonine kinase (predicted by OlgaV)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2736.fa	WP_032867180.1	1.01e-11	fig|470.5054.peg.1057|BQ1898_05993|	PvdO, pyoverdine responsive serine/threonine kinase (predicted by OlgaV)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2737.fa	WP_004653958.1	3.62e-51	fig|470.5054.peg.1057|BQ1898_05993|	PvdO, pyoverdine responsive serine/threonine kinase (predicted by OlgaV)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2741.fa	WP_001104129.1	5.66e-07	fig|470.7268.peg.3003|	Ferric enterobactin-binding periplasmic protein FepB (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2764.fa	WP_000774086.1	2.50e-39	fig|470.10130.peg.430|	Chaperone protein FimC   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2766.fa	WP_000775740.1	8.67e-38	fig|470.6913.peg.8890|	Mg(2+)-transport-ATPase-associated protein MgtC   [Acinetobacter baumannii strain MRSN7321 | 470.6913]	VFDB
+HOG2767.fa	WP_004645808.1	2.45e-23	fig|470.6913.peg.8890|	Mg(2+)-transport-ATPase-associated protein MgtC   [Acinetobacter baumannii strain MRSN7321 | 470.6913]	VFDB
+HOG2774.fa	WP_000777878.1	3.89e-07	fig|470.7268.peg.4419|	Outer membrane protein A precursor   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG2789.fa	WP_001985076.1	4.90e-05	fig|470.3513.peg.3222|CAT67_13460|	Nicotinamidase family protein YcaC   [Acinetobacter baumannii strain ARLG1935 | 470.3513]	VFDB
+HOG2792.fa	WP_000784943.1	6.26e-18	fig|470.5054.peg.950|BQ1898_06231|	Trans-2,3-dihydro-3-hydroxyanthranilate isomerase (EC 5.3.3.17)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2798.fa	WP_004718317.1	0.009	fig|2002.3.peg.1434|	Two component system sensor histidine kinase MtrB   [Streptosporangium amethystogenes strain NRRL B-2639 | 2002.3]	PATRIC
+HOG2799.fa	WP_001214059.1	1.81e-09	fig|470.5054.peg.1892|BQ1898_02621|	type 4 fimbrial biogenesis protein FimU   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2802.fa	WP_004901685.1	9.55e-09	fig|470.5622.peg.2675|SAMEA104305299_02143|	General secretion pathway protein G   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG2803.fa	WP_000788344.1	2.01e-08	fig|470.5054.peg.1886|BQ1898_02615|	Type IV pilus biogenesis protein PilE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2874.fa	WP_000826956.1	4.98e-45	fig|470.6998.peg.455|	Capsular polysaccharide synthesis enzyme Cap8M   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG2876.fa	WP_000827948.1	1.06e-07	fig|470.6998.peg.296|	Lipase precursor (EC 3.1.1.3)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG2878.fa	WP_000828390.1	4.34e-06	fig|470.5651.peg.9442|SAMEA104305337_02073|	Pyoverdin biosynthesis protein PvdN, putative aminotransferase, class V   [Acinetobacter baumannii strain 4300STDY7045842 | 470.5651]	VFDB
+HOG2883.fa	WP_000832710.1	2.47e-20	fig|470.6721.peg.2347|	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG2884.fa	WP_031947350.1	3.69e-19	fig|470.6721.peg.2347|	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG2894.fa	WP_000836911.1	5.73e-08	fig|470.5054.peg.7084|BQ1898_00415|	General secretion pathway protein I   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2903.fa	WP_000841370.1	1.15e-07	fig|470.5054.peg.7083|BQ1898_00414|	General secretion pathway protein H   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2907.fa	WP_000842416.1	1.23e-128	fig|470.5054.peg.5658|BQ1898_06315|	HtrA protease/chaperone protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2917.fa	WP_004683197.1	1.19e-80	fig|470.3346.peg.3387|BVG13_18755|	Integron integrase IntI1   [Acinetobacter baumannii strain TDAB1 | 470.3346]	VFDB
+HOG2951.fa	WP_000853311.1	6.47e-25	fig|470.10130.peg.7344|	iron aquisition 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58,Irp5) @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG2956.fa	WP_009391744.1	1.98e-19	fig|470.5054.peg.5736|BQ1898_00048|	FAD-dependent monooxygenase PhzS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2957.fa	WP_000811369.1	9.41e-15	fig|470.5054.peg.5736|BQ1898_00048|	FAD-dependent monooxygenase PhzS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2959.fa	WP_000856567.1	1.26e-11	fig|470.5054.peg.5736|BQ1898_00048|	FAD-dependent monooxygenase PhzS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2961.fa	WP_001103529.1	3.71e-31	fig|470.5054.peg.5736|BQ1898_00048|	FAD-dependent monooxygenase PhzS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG2981.fa	WP_000865306.1	3.33e-46	fig|470.5622.peg.2675|SAMEA104305299_02143|	General secretion pathway protein G   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG2982.fa	WP_000865988.1	5.62e-96	fig|1177179.3.peg.768|A11A3_03849|VBIAlcHon236673_0768|	Alginate biosynthesis two-component system response regulator AlgR   [Alcanivorax hongdengensis A-11-3 | 1177179.3]	PATRIC
+HOG2990.fa	WP_000870031.1	0.001	fig|470.6507.peg.4814|	General secretion pathway protein C   [Acinetobacter baumannii strain 468 | 470.6507]	VFDB
+HOG3016.fa	WP_002036546.1	3.14e-06	fig|1470200.3.peg.2010|PL75_04310|	Multidrug resistance regulator EmrR (MprA)   [Neisseria sp. KH1503 | 1470200.3]	PATRIC
+HOG3026.fa	WP_000886772.1	1.53e-32	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3043.fa	WP_000893008.1	1.28e-34	fig|470.5623.peg.4093|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG3062.fa	WP_000933794.1	1.20e-37	fig|470.5054.peg.3258|BQ1898_01303|	VgrG protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG306.fa	WP_007484215.1	4.02e-04	fig|1121372.3.peg.1076|VBICurGin278180_1076|	Two component system sensor histidine kinase MtrB   [Curtobacterium ginsengisoli DSM 22003 | 1121372.3]	PATRIC
+HOG3088.fa	WP_000912074.1	4.26e-09	fig|470.5054.peg.1485|	T6SS Serine/threonine protein kinase (EC 2.7.11.1) PpkA   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3122.fa	WP_001070730.1	2.03e-63	fig|470.10130.peg.7338|	Iron siderophore ABC transporter, permease/ATP-binding protein YbtP   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3124.fa	WP_000922244.1	6.14e-58	fig|470.10130.peg.7337|	Iron siderophore ABC transporter, permease/ATP-binding protein YbtQ   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3126.fa	WP_016540161.1	1.59e-25	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG3127.fa	WP_000988402.1	2.94e-37	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG3128.fa	WP_063097747.1	2.22e-16	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG3129.fa	WP_081313842.1	2.89e-57	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG3130.fa	WP_001269709.1	7.71e-39	fig|470.10130.peg.7337|	Iron siderophore ABC transporter, permease/ATP-binding protein YbtQ   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3131.fa	WP_001090097.1	6.25e-45	fig|470.10130.peg.7338|	Iron siderophore ABC transporter, permease/ATP-binding protein YbtP   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3132.fa	WP_001281550.1	5.01e-31	fig|470.5622.peg.6054|SAMEA104305299_05737|	ABC efflux pump, fused inner membrane and ATPase subunits in pyochelin gene cluster @ Putative ABC iron siderophore transporter, fused permease and ATPase domains   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG3139.fa	WP_000925673.1	6.12e-09	fig|470.5054.peg.949|BQ1898_06230|	2-Amino-2-deoxy-isochorismate synthase (EC 2.6.1.86) PhzE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3169.fa	WP_000471755.1	7.61e-176	fig|470.6998.peg.463|	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.-)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG318.fa	WP_000097867.1	3.88e-26	fig|470.5054.peg.664|BQ1898_05291|	Transcriptional regulator, AraC family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3191.fa	WP_000951071.1	0.005	fig|470.2575.peg.3056|	Acyl carrier protein   [Acinetobacter baumannii strain 3.5D | 470.2575]	VFDB
+HOG3199.fa	WP_031949784.1	1.98e-30	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG322.fa	WP_000535301.1	1.26e-15	fig|470.5054.peg.664|BQ1898_05291|	Transcriptional regulator, AraC family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3231.fa	WP_000969580.1	8.09e-21	fig|470.7268.peg.3010|	Enterobactin synthetase component F, serine activating enzyme (EC 2.7.7.-)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG3247.fa	WP_000983818.1	9.46e-80	fig|470.7268.peg.3002|	Isochorismate synthase (EC 5.4.4.2) @ Isochorismate synthase (EC 5.4.4.2) [enterobactin] siderophore @ Isochorismate synthase (EC 5.4.4.2) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG3261.fa	WP_000989966.1	8.09e-10	fig|470.6998.peg.2428|	Polysaccharide intercellular adhesin (PIA) biosynthesis deacetylase IcaB (EC 3.-.-.-)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG326.fa	WP_001285124.1	2.81e-07	fig|470.10130.peg.7339|	iron aquisition regulator (YbtA,AraC-like,required for transcription of FyuA/psn,Irp2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3274.fa	WP_000992580.1	1.09e-128	fig|470.5054.peg.5807|BQ1898_03141|	Intramembrane protease RasP/YluC, implicated in cell division based on FtsL cleavage   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG330.fa	WP_000013631.1	2.46e-05	fig|470.5623.peg.7408|	Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG333.fa	WP_001983827.1	7.27e-09	fig|470.5054.peg.5726|BQ1898_00038|	Transcriptional regulator PchR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3349.fa	WP_001015437.1	1.69e-23	fig|470.5054.peg.1055|BQ1898_05991|	Putative dipeptidase, pyoverdin biosynthesis PvdM   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3357.fa	WP_001017037.1	2.08e-165	fig|470.5054.peg.1504|BQ1898_05454|	Type IV pilus biogenesis protein PilQ   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG336.fa	WP_000554500.1	4.20e-32	fig|470.5054.peg.664|BQ1898_05291|	Transcriptional regulator, AraC family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3375.fa	WP_001020904.1	1.06e-116	fig|470.5054.peg.7080|BQ1898_00411|	General secretion pathway protein E   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3376.fa	WP_001020931.1	2.15e-28	fig|470.5622.peg.3437|SAMEA104305299_00301|	N-butanoyl-L-homoserine lactone synthase @ N-acyl-L-homoserine lactone synthase, LuxI family (EC 2.3.1.184)   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG3380.fa	WP_001022407.1	1.73e-79	fig|470.9259.peg.2008|	Bactoprenol glucosyl transferase   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG3385.fa	WP_001023261.1	9.52e-14	fig|1618207.4.peg.1574|UM93_07775|	Two component system response regulator MtrA   [Arthrobacter sp. IHBB 11108 | 1618207.4]	PATRIC
+HOG3391.fa	WP_001025140.1	9.26e-82	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3396.fa	WP_001026389.1	7.62e-12	fig|470.6778.peg.4214|	CylA   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG3397.fa	WP_001190936.1	4.19e-07	fig|470.6778.peg.4214|	CylA   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG3404.fa	WP_001030690.1	0.005	fig|470.6721.peg.2347|	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG3409.fa	WP_001039969.1	9.47e-26	fig|470.5054.peg.1239|BQ1898_05026|	Thioesterase PvdG involved in non-ribosomal peptide biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3419.fa	WP_001039359.1	0.001	fig|470.6998.peg.454|	Capsular polysaccharide synthesis enzyme Cap8N   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG3439.fa	WP_001046500.1	1.02e-08	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3443.fa	WP_001047027.1	2.07e-05	fig|1109412.13.peg.283|BN1221_00284c|	Transcriptional regulator of acrAB operon, AcrR   [Brenneria goodwinii strain OBR1 | 1109412.13]	PATRIC
+HOG3444.fa	WP_001047031.1	5.09e-05	fig|470.5054.peg.3262|BQ1898_01307|	T6SS lysozyme-like component TssE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3461.fa	WP_001054522.1	1.04e-17	fig|470.5054.peg.6085|BQ1898_00279|	Flagellum-specific ATP synthase FliI   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3467.fa	WP_034680148.1	1.06e-13	fig|470.10130.peg.4543|	Ferric enterobactin transport system permease protein FepD (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3468.fa	WP_016652262.1	4.77e-20	fig|470.10130.peg.4543|	Ferric enterobactin transport system permease protein FepD (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3469.fa	WP_001223275.1	2.78e-07	fig|470.9257.peg.1700|	Ferric enterobactin transport system permease protein FepG (TC 3.A.1.14.2)   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG3470.fa	WP_025464477.1	1.05e-33	fig|470.10130.peg.4543|	Ferric enterobactin transport system permease protein FepD (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3471.fa	WP_001210788.1	4.34e-16	fig|470.10130.peg.4543|	Ferric enterobactin transport system permease protein FepD (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3487.fa	WP_001062908.1	8.27e-09	fig|470.6998.peg.454|	Capsular polysaccharide synthesis enzyme Cap8N   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG3491.fa	WP_001066523.1	8.31e-165	fig|470.5054.peg.3266|BQ1898_01310|	T6SS component TssC (ImpC/VipB)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3505.fa	WP_001072402.1	3.66e-15	fig|470.5054.peg.1481|BQ1898_06147|	T6SS outer membrane component TssL (ImpK/VasF) / OmpA/MotB domain   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3509.fa	WP_001074362.1	1.41e-07	fig|470.5054.peg.6902|BQ1898_05725|	Flagellar synthesis regulator FleN   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG351.fa	WP_000267775.1	0.008	fig|470.5054.peg.663|BQ1898_05290|	probable chemotaxis protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3525.fa	WP_001081735.1	1.44e-145	fig|470.5054.peg.7751|BQ1898_00606|	Phospholipase C (EC 3.1.4.3) => hemolytic PlcH   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3529.fa	WP_001083350.1	1.44e-05	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG353.fa	WP_000959259.1	1.58e-05	fig|470.5054.peg.663|BQ1898_05290|	probable chemotaxis protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG355.fa	WP_000458278.1	0.007	fig|470.5054.peg.663|BQ1898_05290|	probable chemotaxis protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3570.fa	WP_001093099.1	7.49e-09	fig|470.7268.peg.3014|	4'-phosphopantetheinyl transferase (EC 2.7.8.-) [enterobactin] siderophore   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG358.fa	WP_001105726.1	1.73e-04	fig|470.5054.peg.663|BQ1898_05290|	probable chemotaxis protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3592.fa	WP_001097560.1	9.64e-16	fig|470.7268.peg.4419|	Outer membrane protein A precursor   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG3602.fa	WP_005219495.1	1.65e-87	fig|48296.157.peg.418|	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)   [Acinetobacter pittii strain UKK-0548 | 48296.157]	VFDB
+HOG3603.fa	WP_001101643.1	6.51e-07	fig|470.6848.peg.4269|	UDP-N-acetylglucosamine 4,6-dehydratase (EC 4.2.1.135)   [Acinetobacter baumannii strain MRSN7234 | 470.6848]	VFDB
+HOG3604.fa	WP_092617397.1	5.95e-16	fig|48296.157.peg.418|	GDP-mannose 4,6-dehydratase (EC 4.2.1.47)   [Acinetobacter pittii strain UKK-0548 | 48296.157]	VFDB
+HOG3606.fa	WP_001102833.1	6.12e-82	fig|470.5054.peg.7564|BQ1898_04407|	Phosphoglucomutase (EC 5.4.2.2) @ Phosphomannomutase (EC 5.4.2.8)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3624.fa	WP_001112013.1	5.34e-21	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3626.fa	WP_001112089.1	1.15e-130	fig|470.5054.peg.7081|BQ1898_00412|	General secretion pathway protein F   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3646.fa	WP_001119042.1	3.06e-37	fig|470.5054.peg.3267|BQ1898_01311|	T6SS component TssB (ImpB/VipA)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3659.fa	WP_001125253.1	2.80e-11	fig|1122602.4.peg.208|VBINesAlb272239_0208|	Two component system response regulator MtrA   [Nesterenkonia alba DSM 19423 | 1122602.4]	PATRIC
+HOG3687.fa	WP_001136089.1	9.74e-25	fig|470.5622.peg.8160|SAMEA104305299_03202|	ABC transporter, ATP-binding protein   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG3702.fa	WP_001140449.1	1.42e-07	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG3722.fa	WP_001152283.1	1.92e-83	fig|470.5054.peg.2013|BQ1898_02742|	Leader peptidase (Prepilin peptidase) (EC 3.4.23.43) / N-methyltransferase (EC 2.1.1.-)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3754.fa	WP_001166321.1	0.0	fig|470.5054.peg.7080|BQ1898_00411|	General secretion pathway protein E   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3757.fa	WP_002134661.1	4.48e-04	fig|470.6778.peg.7434|	Polysaccharide pyruvyl transferase / Domain of unknown function / UDP-N-acetylenolpyruvoylglucosamine reductase (EC 1.3.1.98)   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG3784.fa	WP_001177595.1	8.02e-04	fig|1122622.3.peg.3419|VBIOrnPek238251_3419|	Two component system sensor histidine kinase MtrB   [Ornithinimicrobium pekingense DSM 21552 | 1122622.3]	PATRIC
+HOG3785.fa	WP_001177731.1	7.16e-05	fig|470.5685.peg.6262|SAMEA104305377_05788|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045877 | 470.5685]	VFDB
+HOG3812.fa	WP_001183458.1	6.23e-25	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG3823.fa	WP_001186635.1	5.31e-35	fig|470.5651.peg.1311|SAMEA104305337_00932|	Type III secretion cytoplasmic ATP synthase (EC 3.6.3.14, YscN,SpaL,MxiB,HrcN,EscN)   [Acinetobacter baumannii strain 4300STDY7045842 | 470.5651]	VFDB
+HOG3827.fa	WP_001187342.1	2.50e-08	fig|470.5622.peg.5674|SAMEA104305299_05323|	Flagellar biosynthesis protein FlhF   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG3839.fa	WP_001190390.1	9.02e-15	fig|470.5054.peg.3260|BQ1898_01305|	T6SS component TssG (ImpH/VasB)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3858.fa	WP_001196431.1	1.76e-136	fig|470.5054.peg.7078|BQ1898_00409|	General secretion pathway protein D   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3872.fa	WP_001202415.1	2.51e-18	fig|470.7268.peg.4419|	Outer membrane protein A precursor   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG3891.fa	WP_001210050.1	1.29e-169	fig|470.5054.peg.3259|BQ1898_01304|	T6SS AAA+ chaperone ClpV (TssH)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG390.fa	WP_000020709.1	4.24e-12	fig|470.5054.peg.3268|BQ1898_01312|	T6SS component TssA (ImpA)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3958.fa	WP_001242992.1	7.38e-10	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG3980.fa	WP_001254963.1	6.94e-122	fig|470.5054.peg.2543|BQ1898_01914|	Outer membrane stress sensor protease DegS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4010.fa	WP_001274814.1	1.16e-16	fig|470.6721.peg.2347|	iron aquisition yersiniabactin synthesis enzyme (Irp1,polyketide synthetase) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG4012.fa	WP_001274985.1	0.0	fig|470.5685.peg.4302|SAMEA104305377_04111|	Type IV fimbrial assembly, ATPase PilB   [Acinetobacter baumannii strain 4300STDY7045877 | 470.5685]	VFDB
+HOG4028.fa	WP_001112624.1	1.63e-45	fig|470.3666.peg.1095|BXA17_17125|	Aminoglycoside 3''-nucleotidyltransferase (EC 2.7.7.-) => ANT(3'')-Ia (AadA family)   [Acinetobacter baumannii strain AbS2 C1-D7-12 | 470.3666]	VFDB
+HOG4031.fa	WP_001279871.1	1.22e-20	fig|470.2575.peg.3056|	Acyl carrier protein   [Acinetobacter baumannii strain 3.5D | 470.2575]	VFDB
+HOG4051.fa	WP_001285361.1	1.70e-05	fig|470.5054.peg.6903|BQ1898_05726|	RNA polymerase sigma factor for flagellar operon   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4053.fa	WP_001286113.1	2.34e-25	fig|470.5622.peg.4607|SAMEA104305299_06800|	Pyridoxamine 5'-phosphate oxidase PhzG (EC 1.4.3.5)   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG4068.fa	WP_001289233.1	5.39e-04	fig|470.5623.peg.6174|SAMEA104305315_01784|	still frameshift probable component of chemotactic signal transduction system   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG4085.fa	WP_000138947.1	5.76e-18	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG4086.fa	WP_001398150.1	1.21e-144	fig|470.3433.peg.3615|B9Y09_01565|	Tn21 protein of unknown function Urf2   [Acinetobacter baumannii strain PR395 | 470.3433]	VFDB
+HOG4160.fa	WP_002135589.1	4.88e-24	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG4180.fa	WP_005143496.1	2.12e-129	fig|470.5054.peg.1500|BQ1898_05450|	Type IV pilus biogenesis protein PilM   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4186.fa	WP_000132219.1	1.73e-33	fig|470.6778.peg.7266|	Undecaprenyl diphosphate synthase (EC 2.5.1.31)   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG4189.fa	WP_001134896.1	2.26e-07	fig|470.5054.peg.949|BQ1898_06230|	2-Amino-2-deoxy-isochorismate synthase (EC 2.6.1.86) PhzE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4200.fa	WP_067558673.1	9.09e-07	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4201.fa	WP_067555400.1	3.83e-19	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4202.fa	WP_087621126.1	1.09e-07	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4203.fa	WP_097080464.1	4.42e-09	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4204.fa	WP_000583863.1	3.01e-12	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4205.fa	WP_097080027.1	7.97e-16	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4206.fa	WP_004926242.1	1.99e-09	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4207.fa	WP_087620260.1	2.39e-14	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4209.fa	WP_001984796.1	1.96e-34	fig|33876.3.peg.6957|	Two component system sensor histidine kinase MtrB   [Catenuloplanes japonicus strain NRRL B-16061 | 33876.3]	PATRIC
+HOG4254.fa	WP_001098931.1	1.13e-08	fig|360106.6.peg.123|CFF8240_0120|VBICamFet25865_0123|	Transcriptional repressor of CmeABC operon, CmeR   [Campylobacter fetus subsp. fetus 82-40 | 360106.6]	PATRIC
+HOG4255.fa	WP_004654956.1	1.03e-14	fig|69222.5.peg.249|BG55_01160|VBIErwMal37709_0249|	Transcriptional regulator of acrAB operon, AcrR   [Erwinia mallotivora strain BT-MARDI | 69222.5]	PATRIC
+HOG4313.fa	WP_000594572.1	3.07e-12	fig|470.5054.peg.7085|BQ1898_00416|	General secretion pathway protein J   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4338.fa	WP_005023730.1	2.31e-118	fig|470.6998.peg.464|	Probable polysaccharide biosynthesis protein EpsC   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG4422.fa	WP_001178328.1	2.82e-05	fig|470.10130.peg.7344|	iron aquisition 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58,Irp5) @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG4502.fa	WP_062849172.1	1.17e-09	fig|470.5054.peg.5654|BQ1898_06311|	RNA polymerase sigma factor RpoE   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4573.fa	WP_004995083.1	2.41e-21	fig|1698.4.peg.1463|	Two component system sensor histidine kinase MtrB   [Brevibacterium epidermidis strain BS258 | 1698.4]	PATRIC
+HOG4617.fa	WP_045794335.1	8.99e-54	fig|470.5054.peg.1895|BQ1898_02624|	Type IV fimbriae expression regulatory protein PilR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4624.fa	WP_004925849.1	5.81e-19	fig|470.9257.peg.3614|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG4655.fa	WP_004819773.1	8.13e-08	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4673.fa	WP_081399508.1	5.78e-09	fig|470.9260.peg.7626|	Type III secretion thermoregulatory protein (LcrF,VirF,transcription regulation of virulence plasmid)   [Acinetobacter baumannii strain abaGIM | 470.9260]	VFDB
+HOG472.fa	WP_000806358.1	3.09e-07	fig|470.7251.peg.3998|	Isochorismatase (EC 3.3.2.1) [enterobactin] siderophore / Apo-aryl carrier domain of EntB @ Isochorismatase (EC 3.3.2.1) of siderophore biosynthesis   [Acinetobacter baumannii strain MRSN908 | 470.7251]	VFDB
+HOG473.fa	WP_004279659.1	2.01e-09	fig|470.7251.peg.3998|	Isochorismatase (EC 3.3.2.1) [enterobactin] siderophore / Apo-aryl carrier domain of EntB @ Isochorismatase (EC 3.3.2.1) of siderophore biosynthesis   [Acinetobacter baumannii strain MRSN908 | 470.7251]	VFDB
+HOG4740.fa	WP_000376614.1	0.009	fig|1120979.4.peg.1523|VBIAllOmn253975_1523|	Two component system response regulator MtrA   [Alloscardovia omnicolens DSM 21503 | 1120979.4]	PATRIC
+HOG474.fa	WP_001018262.1	2.55e-98	fig|470.10130.peg.4538|	Isochorismatase (EC 3.3.2.1) [enterobactin] siderophore / Apo-aryl carrier domain of EntB @ Isochorismatase (EC 3.3.2.1) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG477.fa	WP_000027499.1	6.75e-30	fig|470.7268.peg.3007|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG478.fa	WP_000027529.1	0.002	fig|1122125.3.peg.6222|VBIInqLim274251_6222|	Transcriptional regulator of acrAB operon, AcrR   [Inquilinus limosus DSM 16000 | 1122125.3]	PATRIC
+HOG47.fa	WP_001985116.1	1.50e-09	fig|470.3275.peg.3248|BS576_07910|	Tetracycline resistance, MFS efflux pump => Tet(B)   [Acinetobacter baumannii strain Ab158_GEIH-2000 | 470.3275]	VFDB
+HOG4816.fa	WP_004929078.1	2.28e-10	fig|470.5054.peg.5736|BQ1898_00048|	FAD-dependent monooxygenase PhzS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4821.fa	WP_010326615.1	4.00e-19	fig|470.10130.peg.7336|	Putative signal transducer   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG4823.fa	WP_004929194.1	4.25e-26	fig|470.5685.peg.6262|SAMEA104305377_05788|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045877 | 470.5685]	VFDB
+HOG4824.fa	WP_067552086.1	6.68e-43	fig|470.6721.peg.2346|	iron aquisition yersiniabactin synthesis enzyme (Irp2) @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain MRSN1966 | 470.6721]	VFDB
+HOG4828.fa	WP_004929236.1	0.007	fig|469595.3.peg.1122|CSAG_00258|VBICitSp98337_1122|	Transcriptional regulator of acrAB operon, AcrR   [Citrobacter sp. 30_2 | 469595.3]	PATRIC
+HOG4860.fa	WP_024432738.1	8.60e-16	fig|470.6778.peg.5049|	Maltose operon transcriptional repressor MalR, LacI family   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG4866.fa	WP_004930806.1	0.0	fig|470.5054.peg.3176|BQ1898_05574|	Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13) / Mannose-6-phosphate isomerase (EC 5.3.1.8)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG4869.fa	WP_000493225.1	1.15e-05	fig|470.7101.peg.3686|	Polysaccharide intercellular adhesin (PIA) biosynthesis N-glycosyltransferase IcaA (EC 2.4.-.-)   [Acinetobacter baumannii strain MRSN7593 | 470.7101]	VFDB
+HOG4872.fa	WP_004819043.1	3.91e-44	fig|470.5054.peg.3164|BQ1898_05563|	GDP-mannose 6-dehydrogenase (EC 1.1.1.132)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG492.fa	WP_000868731.1	6.62e-08	fig|1484157.3.peg.2622|	Transcriptional regulator of acrAB operon, AcrR   [Pantoea sp. PSNIH2 | 1484157.3]	PATRIC
+HOG493.fa	WP_000562192.1	8.43e-08	fig|1225184.4.peg.2636|	Transcriptional regulator of acrAB operon, AcrR   [Pantoea sp. A4 | 1225184.4]	PATRIC
+HOG494.fa	WP_000792951.1	0.009	fig|470.4024.peg.535|	Biofilm operon icaABCD HTH-type negative transcriptional regulator IcaR   [Acinetobacter baumannii strain AB172 | 470.4024]	VFDB
+HOG495.fa	WP_002055243.1	3.92e-06	fig|1124991.3.peg.1514|MU9_1449|VBIMorMor230948_1514|	Transcriptional regulator of acrAB operon, AcrR   [Morganella morganii subsp. morganii KT | 1124991.3]	PATRIC
+HOG4962.fa	WP_000088605.1	7.87e-156	fig|470.3274.peg.3104|BS570_07345|	Tetracycline resistance regulatory protein TetR   [Acinetobacter baumannii strain Ab54_GEIH-2010 | 470.3274]	VFDB
+HOG496.fa	WP_009391568.1	6.94e-04	fig|1658672.3.peg.2061|ADJ79_08105|	Transcriptional regulator of acrAB operon, AcrR   [Ottowia sp. oral taxon 894 strain W10237 | 1658672.3]	PATRIC
+HOG497.fa	WP_052331511.1	0.006	fig|69222.5.peg.249|BG55_01160|VBIErwMal37709_0249|	Transcriptional regulator of acrAB operon, AcrR   [Erwinia mallotivora strain BT-MARDI | 69222.5]	PATRIC
+HOG498.fa	YP_004997725.1	3.78e-05	fig|470.4024.peg.535|	Biofilm operon icaABCD HTH-type negative transcriptional regulator IcaR   [Acinetobacter baumannii strain AB172 | 470.4024]	VFDB
+HOG499.fa	WP_000005239.1	2.01e-06	fig|1123279.3.peg.2701|VBISpoTro266806_2701|	Transcriptional regulator of acrAB operon, AcrR   [Spongiibacter tropicus DSM 19543 | 1123279.3]	PATRIC
+HOG501.fa	WP_000120692.1	3.71e-06	fig|1523424.3.peg.3451|IP80_05280|	Transcriptional regulator of acrAB operon, AcrR   [beta proteobacterium AAP65 | 1523424.3]	PATRIC
+HOG5028.fa	WP_004726714.1	0.0	fig|470.3276.peg.1621|BS580_18610|	TnpA transposase   [Acinetobacter baumannii strain Ab175_GEIH-2000 | 470.3276]	VFDB
+HOG502.fa	WP_000107496.1	1.32e-09	fig|527004.3.peg.1788|yrohd0001_1710|VBIYerRoh124190_1788|	Transcriptional regulator of acrAB operon, AcrR   [Yersinia rohdei ATCC 43380 | 527004.3]	PATRIC
+HOG503.fa	WP_001233437.1	5.85e-07	fig|1336237.3.peg.293|VBIPseFle299018_0293|	Transcriptional regulator of acrAB operon, AcrR   [Pseudomonas flectens ATCC 12775 | 1336237.3]	PATRIC
+HOG506.fa	WP_000184769.1	1.96e-05	fig|520999.6.peg.2145|PROVALCAL_02359|VBIProAlc107602_2145|	Transcriptional regulator of acrAB operon, AcrR   [Providencia alcalifaciens DSM 30120 | 520999.6]	PATRIC
+HOG507.fa	WP_000826320.1	2.37e-06	fig|61647.10.peg.4549|	Transcriptional regulator of acrAB operon, AcrR   [Pluralibacter gergoviae FB2 | 61647.10]	PATRIC
+HOG5089.fa	WP_000993245.1	2.35e-30	fig|470.3344.peg.3217|B4R42_05650|	Tn21 protein of unknown function Urf2   [Acinetobacter baumannii strain ABUH343 | 470.3344]	VFDB
+HOG510.fa	WP_001185661.1	2.30e-06	fig|470.6998.peg.2425|	Biofilm operon icaABCD HTH-type negative transcriptional regulator IcaR   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG511.fa	WP_001133099.1	3.34e-05	fig|470.4024.peg.535|	Biofilm operon icaABCD HTH-type negative transcriptional regulator IcaR   [Acinetobacter baumannii strain AB172 | 470.4024]	VFDB
+HOG512.fa	WP_000037059.1	5.57e-05	fig|1121402.3.peg.2844|	Transcriptional regulator of acrAB operon, AcrR   [Desulfobulbus elongatus DSM 2908 | 1121402.3]	PATRIC
+HOG5138.fa	WP_002001451.1	7.71e-62	fig|470.3534.peg.3428|	Mobile element protein   [Acinetobacter baumannii strain AC13M | 470.3534]	VFDB
+HOG5139.fa	WP_001261740.1	0.0	fig|470.3365.peg.2854|BFX37_18055|	Aminoglycoside 3''-nucleotidyltransferase (EC 2.7.7.-) => ANT(3'')-Ia (AadA family)   [Acinetobacter baumannii strain 428 | 470.3365]	VFDB
+HOG514.fa	WP_000338063.1	5.33e-07	fig|470.6998.peg.2425|	Biofilm operon icaABCD HTH-type negative transcriptional regulator IcaR   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG5165.fa	WP_002021926.1	1.08e-34	fig|470.3353.peg.4142|B7L46_00995|	Integron integrase IntI1   [Acinetobacter baumannii strain HWBA8 | 470.3353]	VFDB
+HOG5210.fa	WP_000166093.1	9.84e-44	fig|470.5054.peg.5725|BQ1898_00037|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [pyochelin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG5264.fa	WP_005194484.1	7.52e-110	fig|470.6998.peg.462|	Capsular polysaccharide synthesis enzyme Cap5F   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG5304.fa	WP_039620514.1	1.19e-28	fig|470.6998.peg.456|	Capsular polysaccharide synthesis enzyme Cap5L   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG5309.fa	WP_000367413.1	1.67e-04	fig|470.5444.peg.3031|D3X28_14375|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter baumannii strain MC89 | 470.5444]	VFDB
+HOG5351.fa	WP_000124735.1	6.75e-10	fig|470.7268.peg.7479|	Type 1 fimbriae regulatory protein FimB   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG5385.fa	WP_000251875.1	1.76e-04	fig|48296.127.peg.2493|BFR92_11805|	Phosphomannomutase (EC 5.4.2.8) => Colanic acid   [Acinetobacter pittii strain UKK-0547 | 48296.127]	VFDB
+HOG5393.fa	WP_000312034.1	4.20e-04	fig|470.5622.peg.8160|SAMEA104305299_03202|	ABC transporter, ATP-binding protein   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG543.fa	WP_000151613.1	1.68e-107	fig|470.7101.peg.3686|	Polysaccharide intercellular adhesin (PIA) biosynthesis N-glycosyltransferase IcaA (EC 2.4.-.-)   [Acinetobacter baumannii strain MRSN7593 | 470.7101]	VFDB
+HOG5446.fa	WP_023014221.1	1.05e-05	fig|470.6778.peg.4906|	hypothetical protein   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG544.fa	WP_000035257.1	2.98e-28	fig|470.7101.peg.3686|	Polysaccharide intercellular adhesin (PIA) biosynthesis N-glycosyltransferase IcaA (EC 2.4.-.-)   [Acinetobacter baumannii strain MRSN7593 | 470.7101]	VFDB
+HOG545.fa	WP_000866237.1	5.77e-102	fig|470.7101.peg.3686|	Polysaccharide intercellular adhesin (PIA) biosynthesis N-glycosyltransferase IcaA (EC 2.4.-.-)   [Acinetobacter baumannii strain MRSN7593 | 470.7101]	VFDB
+HOG547.fa	WP_000035926.1	1.92e-25	fig|470.9257.peg.3611|	Periplasmic esterase IroE   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG5481.fa	WP_005006225.1	8.66e-07	fig|470.3482.peg.2477|CAS84_19665|	Integron integrase IntI1   [Acinetobacter baumannii strain ARLG1314 | 470.3482]	VFDB
+HOG5558.fa	WP_002001078.1	3.47e-99	fig|470.3274.peg.3105|BS570_07350|	Transcriptional regulator, ArsR family   [Acinetobacter baumannii strain Ab54_GEIH-2010 | 470.3274]	VFDB
+HOG557.fa	WP_000032771.1	1.85e-05	fig|1353941.3.peg.486|	Catalase KatE (EC 1.11.1.6)   [Acinetobacter harbinensis HITLi 7 | 1353941.3]	VFDB
+HOG5591.fa	WP_081398895.1	1.73e-50	fig|470.3366.peg.1457|	Integron integrase IntI1   [Acinetobacter baumannii strain 314 | 470.3366]	VFDB
+HOG5601.fa	WP_000011808.1	6.18e-84	fig|470.9210.peg.3632|	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)   [Acinetobacter baumannii strain 20823 | 470.9210]	VFDB
+HOG5603.fa	WP_005049228.1	0.007	fig|470.9210.peg.3632|	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)   [Acinetobacter baumannii strain 20823 | 470.9210]	VFDB
+HOG5604.fa	WP_092617631.1	2.68e-09	fig|470.9210.peg.3632|	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)   [Acinetobacter baumannii strain 20823 | 470.9210]	VFDB
+HOG5606.fa	WP_061398214.1	2.17e-11	fig|470.9210.peg.3632|	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)   [Acinetobacter baumannii strain 20823 | 470.9210]	VFDB
+HOG5641.fa	WP_005029536.1	2.30e-10	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG5660.fa	WP_079282578.1	2.09e-17	fig|470.5054.peg.664|BQ1898_05291|	Transcriptional regulator, AraC family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG5719.fa	WP_004891996.1	1.61e-10	fig|1235834.3.peg.4460|VBIEntClo262727_4460|	Transcriptional regulator of acrAB operon, AcrR   [Enterobacter cloacae subsp. dissolvens SP1 | 1235834.3]	PATRIC
+HOG5775.fa	WP_004823679.1	1.80e-46	fig|504474.4.peg.483|cur_0480|VBICorUre58120_0483|	Two component system response regulator MtrA   [Corynebacterium urealyticum DSM 7109 | 504474.4]	PATRIC
+HOG5832.fa	WP_004865219.1	0.004	fig|470.9259.peg.2302|	Transcriptional regulator CsgD for 2nd curli operon   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG5835.fa	WP_004659499.1	3.40e-04	fig|470.6992.peg.4796|	Enterobactin synthetase component F, serine activating enzyme (EC 2.7.7.-)   [Acinetobacter baumannii strain MRSN7418 | 470.6992]	VFDB
+HOG5882.fa	WP_089604001.1	4.68e-05	fig|470.6998.peg.464|	Probable polysaccharide biosynthesis protein EpsC   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG5887.fa	WP_016165572.1	7.51e-12	fig|291112.3.peg.3813|PAU_03397|VBIPhoAsy71438_3813|	Transcriptional regulator of acrAB operon, AcrR   [Photorhabdus asymbiotica strain ATCC 43949 | 291112.3]	PATRIC
+HOG5932.fa	WP_004854792.1	2.04e-08	fig|470.5054.peg.5122|BQ1898_05841|	Putative outer membrane protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG599.fa	WP_000527022.1	1.84e-10	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG600.fa	WP_000055235.1	3.68e-06	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG601.fa	WP_005143404.1	9.91e-24	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG6020.fa	WP_004818708.1	1.34e-05	fig|1354267.3.peg.1224|M992_1210|	Transcriptional regulator of acrAB operon, AcrR   [Moellerella wisconsensis ATCC 35017 | 1354267.3]	PATRIC
+HOG602.fa	WP_001216141.1	1.56e-19	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG604.fa	WP_004808392.1	3.40e-27	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG605.fa	WP_000546108.1	2.40e-17	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG606.fa	WP_058869483.1	7.36e-31	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG607.fa	WP_081408627.1	2.79e-25	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG608.fa	WP_017392749.1	3.26e-59	fig|470.7268.peg.3013|	TonB-dependent receptor; Outer membrane receptor for ferric enterobactin and colicins B, D   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG6116.fa	WP_004662857.1	1.12e-09	fig|1044999.3.peg.3283|ETR_14521|VBIErwTra207570_3283|	Transcriptional regulator of acrAB operon, AcrR   [Erwinia tracheiphila PSU-1 | 1044999.3]	PATRIC
+HOG612.fa	WP_049174182.1	1.54e-13	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG613.fa	WP_081402425.1	2.12e-25	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG614.fa	WP_004998635.1	1.68e-26	fig|470.10130.peg.7345|	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG615.fa	WP_081402719.1	5.00e-17	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG616.fa	WP_016163691.1	1.31e-09	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG617.fa	WP_023273119.1	5.01e-35	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG618.fa	WP_016541805.1	1.69e-27	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG619.fa	WP_087620258.1	1.07e-07	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG620.fa	WP_001073039.1	3.30e-16	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG624.fa	WP_016655118.1	1.09e-12	fig|470.10130.peg.7345|	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG6256.fa	WP_005048232.1	1.93e-14	fig|470.5054.peg.1504|BQ1898_05454|	Type IV pilus biogenesis protein PilQ   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG625.fa	WP_000044170.1	0.0	fig|470.7268.peg.3013|	TonB-dependent receptor; Outer membrane receptor for ferric enterobactin and colicins B, D   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG626.fa	WP_070070082.1	5.01e-18	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG628.fa	WP_001984799.1	7.43e-10	fig|470.10130.peg.7345|	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG6292.fa	WP_034171165.1	0.008	fig|1219383.3.peg.1508|SAMN05421733_10550|	Twitching motility protein PilT   [Acinetobacter boissieri strain ANC 4422 | 1219383.3]	VFDB
+HOG630.fa	WP_016168231.1	1.49e-51	fig|470.7268.peg.3013|	TonB-dependent receptor; Outer membrane receptor for ferric enterobactin and colicins B, D   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG631.fa	WP_000194063.1	1.34e-36	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG632.fa	WP_005231480.1	1.92e-84	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG633.fa	WP_001984473.1	4.31e-11	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG6340.fa	WP_007482711.1	3.77e-36	fig|470.6998.peg.4699|	Sphingomyelinase (EC 3.1.4.12)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG635.fa	WP_087621357.1	2.35e-67	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG636.fa	WP_097078358.1	3.99e-12	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG6373.fa	WP_081399928.1	0.002	fig|470.6998.peg.296|	Lipase precursor (EC 3.1.1.3)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG6377.fa	WP_004780403.1	5.90e-14	fig|470.5054.peg.5723|BQ1898_00035|	Isochorismate pyruvate-lyase (EC 4.2.99.21) [pyochelin] siderophore @ Isochorismate pyruvate-lyase (EC 4.2.99.21) of siderophore biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG637.fa	WP_004979954.1	8.95e-11	fig|470.10130.peg.7345|	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG638.fa	WP_034580861.1	1.48e-51	fig|470.7268.peg.3013|	TonB-dependent receptor; Outer membrane receptor for ferric enterobactin and colicins B, D   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG640.fa	WP_032869532.1	4.94e-86	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG6418.fa	WP_000279936.1	2.19e-16	fig|470.5623.peg.4092|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG641.fa	WP_058952315.1	1.48e-20	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG642.fa	WP_017390758.1	1.72e-30	fig|470.10130.peg.7345|	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG643.fa	WP_000364473.1	6.03e-42	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG644.fa	WP_097079487.1	1.46e-16	fig|470.10130.peg.7345|	iron aquisition outermembrane yersiniabactin receptor (FyuA,Psn,pesticin receptor) @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG6455.fa	WP_004730370.1	9.44e-20	fig|470.3482.peg.1866|CAS84_19155|	IS1 protein InsB   [Acinetobacter baumannii strain ARLG1314 | 470.3482]	VFDB
+HOG6457.fa	WP_000713426.1	1.47e-06	fig|470.7268.peg.5073|	Protein FimF (regulates length and adhesion of type 1 fimbriae)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG645.fa	WP_000413999.1	5.58e-13	fig|470.9257.peg.5101|	TonB-dependent hemin, ferrichrome receptor   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG646.fa	WP_070070071.1	3.75e-106	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG6475.fa	WP_000898887.1	6.34e-18	fig|470.7268.peg.7483|	Chaperone protein FimC   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG647.fa	WP_081407226.1	2.04e-131	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG648.fa	WP_004671029.1	4.69e-127	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG6492.fa	WP_000138429.1	0.010	fig|470.6734.peg.4331|	Clumping factor ClfB, fibrinogen binding protein   [Acinetobacter baumannii strain MRSN2441 | 470.6734]	VFDB
+HOG649.fa	WP_016655726.1	3.83e-102	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG650.fa	WP_016655015.1	5.96e-91	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG651.fa	WP_005211288.1	5.34e-96	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG652.fa	WP_004819776.1	4.02e-93	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG6537.fa	WP_079261876.1	4.54e-19	fig|470.9259.peg.7772|	Chaperone protein FimC   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG653.fa	WP_004717568.1	4.42e-107	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG654.fa	WP_001189915.1	1.23e-101	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG655.fa	WP_005033334.1	6.94e-81	fig|470.5054.peg.5732|BQ1898_00044|	Outer membrane receptor for ferric-pyochelin FptA @ Outer membrane receptor for ferric siderophore   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG662.fa	WP_000044601.1	5.23e-08	fig|1768242.3.peg.3235|AT984_15595|	Transcriptional regulator of acrAB operon, AcrR   [Paucibacter sp. KCTC 42545 | 1768242.3]	PATRIC
+HOG665.fa	WP_000046156.1	1.20e-63	fig|1561081.3.peg.3275|	Nicotinamidase family protein YcaC   [Acinetobacter genomosp. NB14 strain JVAP01 | 1561081.3]	VFDB
+HOG6665.fa	WP_005251952.1	5.64e-161	fig|470.5054.peg.685|BQ1898_05311|	Type IV pilus assembly ATPase component PilU   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG6760.fa	WP_081241756.1	2.36e-04	fig|470.5054.peg.664|BQ1898_05291|	Transcriptional regulator, AraC family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG6788.fa	WP_005249016.1	0.010	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG6811.fa	WP_038345905.1	2.04e-123	fig|470.6998.peg.453|	UDP-N-acetyl-D-mannosamine dehydrogenase (EC 1.1.1.336)   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG6813.fa	WP_007478216.1	1.24e-04	fig|470.7020.peg.4413|	Capsular polysaccharide synthesis enzyme Cap8H   [Acinetobacter baumannii strain MRSN7468 | 470.7020]	VFDB
+HOG684.fa	WP_092616216.1	2.09e-04	fig|470.10136.peg.1058|	Type 1 fimbriae regulatory protein FimB   [Acinetobacter baumannii SRR3217271 | 470.10136]	VFDB
+HOG6857.fa	WP_004799708.1	0.009	fig|1460643.3.peg.3562|	Two component system sensor histidine kinase MtrB   [Arthrobacter sp. JCM 19049 | 1460643.3]	PATRIC
+HOG6897.fa	WP_004682864.1	1.78e-19	fig|470.2575.peg.3056|	Acyl carrier protein   [Acinetobacter baumannii strain 3.5D | 470.2575]	VFDB
+HOG693.fa	WP_000190202.1	0.003	fig|470.9259.peg.2655|	Type 1 fimbriae regulatory protein FimE   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG7031.fa	WP_005093792.1	1.86e-07	fig|219305.4.peg.3257|MCAG_03977|VBIMicSp97049_3257|	Two component system sensor histidine kinase MtrB   [Micromonospora sp. ATCC 39149 | 219305.4]	PATRIC
+HOG7037.fa	WP_004963463.1	3.13e-52	fig|470.5054.peg.5658|BQ1898_06315|	HtrA protease/chaperone protein   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7047.fa	WP_005253250.1	3.56e-09	fig|470.5054.peg.686|BQ1898_05312|	Twitching motility protein PilT   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG706.fa	WP_000049406.1	5.90e-28	fig|470.5622.peg.8160|SAMEA104305299_03202|	ABC transporter, ATP-binding protein   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG70.fa	WP_004657039.1	4.50e-09	fig|470.3275.peg.3248|BS576_07910|	Tetracycline resistance, MFS efflux pump => Tet(B)   [Acinetobacter baumannii strain Ab158_GEIH-2000 | 470.3275]	VFDB
+HOG710.fa	WP_016655293.1	6.38e-05	fig|470.5054.peg.3167|BQ1898_05566|	Alginate export system AlgK/AlgE, periplasmic component AlgK   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7167.fa	WP_001098185.1	0.006	fig|470.5054.peg.1895|BQ1898_02624|	Type IV fimbriae expression regulatory protein PilR   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7184.fa	WP_081402023.1	7.41e-20	fig|470.5054.peg.1482|BQ1898_06148|	T6SS component TssM (IcmF/VasK)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7187.fa	WP_005246354.1	3.08e-45	fig|470.7268.peg.3001|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [enterobactin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG7196.fa	WP_004865692.1	7.82e-05	fig|1293573.3.peg.3285|	Multidrug resistance regulator EmrR (MprA)   [Aquitalea pelogenes strain CCM 7557 | 1293573.3]	PATRIC
+HOG7201.fa	WP_064095101.1	2.13e-30	fig|470.5054.peg.3259|BQ1898_01304|	T6SS AAA+ chaperone ClpV (TssH)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7222.fa	WP_054580614.1	3.36e-08	fig|470.9210.peg.3632|	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronic acid acetyltransferase (EC 2.3.1.201)   [Acinetobacter baumannii strain 20823 | 470.9210]	VFDB
+HOG722.fa	WP_000837521.1	5.37e-05	fig|470.5054.peg.3167|BQ1898_05566|	Alginate export system AlgK/AlgE, periplasmic component AlgK   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7327.fa	WP_016162602.1	4.75e-08	fig|470.6507.peg.3929|	ADP-L-glycero-D-manno-heptose-6-epimerase (EC 5.1.3.20)   [Acinetobacter baumannii strain 468 | 470.6507]	VFDB
+HOG7395.fa	WP_008307385.1	8.20e-153	fig|470.5054.peg.685|BQ1898_05311|	Type IV pilus assembly ATPase component PilU   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG742.fa	WP_000051217.1	2.54e-25	fig|1286094.4.peg.6061|STRAU_6135|VBIStrAur297801_6061|	Two component system sensor histidine kinase MtrB   [Streptomyces aurantiacus JA 4570 | 1286094.4]	PATRIC
+HOG743.fa	WP_000371970.1	5.65e-16	fig|384676.9.peg.84|PSEEN0086|VBIPseEnt83862_0084|	Alginate biosynthesis two-component system sensor histidine kinase KinB   [Pseudomonas entomophila L48 | 384676.9]	PATRIC
+HOG744.fa	WP_001160331.1	5.01e-56	fig|470.5054.peg.1896|BQ1898_02625|	Two-component sensor PilS   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG745.fa	WP_020753299.1	3.52e-21	fig|1229486.3.peg.4731|VBIGamPro256516_4731|	Alginate biosynthesis two-component system sensor histidine kinase KinB   [gamma proteobacterium L18 | 1229486.3]	PATRIC
+HOG746.fa	WP_000194111.1	1.46e-22	fig|216595.4.peg.330|PFLU0087|VBIPseFlu98510_0330|	Alginate biosynthesis two-component system sensor histidine kinase KinB   [Pseudomonas fluorescens SBW25 | 216595.4]	PATRIC
+HOG747.fa	WP_081401988.1	3.12e-18	fig|1120930.3.peg.4681|VBIActCya274376_4681|	Two component system sensor histidine kinase MtrB   [Actinoalloteichus cyanogriseus DSM 43889 | 1120930.3]	PATRIC
+HOG748.fa	WP_004695743.1	3.08e-33	fig|1267981.3.peg.865|VBIArtSp268596_0865|	Two component system sensor histidine kinase MtrB   [Arthrobacter sp. H20 | 1267981.3]	PATRIC
+HOG749.fa	WP_019383611.1	3.47e-24	fig|1120943.3.peg.171|VBIActGer253831_0171|	Two component system sensor histidine kinase MtrB   [Actinomyces gerencseriae DSM 6844 | 1120943.3]	PATRIC
+HOG7500.fa	WP_032055045.1	1.73e-30	fig|470.5054.peg.686|BQ1898_05312|	Twitching motility protein PilT   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG750.fa	WP_001257358.1	3.45e-24	fig|1028989.3.peg.1628|	Alginate biosynthesis two-component system sensor histidine kinase KinB   [Pseudomonas sp. StFLB209 | 1028989.3]	PATRIC
+HOG751.fa	WP_000559383.1	2.85e-20	fig|1095025.3.peg.2264|	Two component system sensor histidine kinase MtrB   [Demequina flava strain NBRC 105854 | 1095025.3]	PATRIC
+HOG752.fa	WP_001983635.1	2.96e-14	fig|1120947.3.peg.1025|VBIActVac256475_1025|	Two component system sensor histidine kinase MtrB   [Actinomyces vaccimaxillae DSM 15804 | 1120947.3]	PATRIC
+HOG753.fa	WP_000837455.1	1.37e-37	fig|1519492.3.peg.2859|ADL03_13435|	Two component system sensor histidine kinase MtrB   [Nocardia sp. NRRL S-836 | 1519492.3]	PATRIC
+HOG754.fa	WP_001009554.1	1.54e-24	fig|1736354.3.peg.3244|ASG36_16070|	Two component system sensor histidine kinase MtrB   [Geodermatophilus sp. Leaf369 | 1736354.3]	PATRIC
+HOG7567.fa	WP_001070970.1	0.007	fig|1236550.3.peg.1509|C884_0802|VBIKocPal258824_1509|	Two component system response regulator MtrA   [Kocuria palustris PEL | 1236550.3]	PATRIC
+HOG7600.fa	WP_005242539.1	9.76e-11	fig|470.5054.peg.1484|BQ1898_06150|	T6SS protein serine/threonine phosphatase PppA   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7606.fa	WP_000961023.1	3.37e-21	fig|470.5054.peg.1485|	T6SS Serine/threonine protein kinase (EC 2.7.11.1) PpkA   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7654.fa	WP_001447826.1	2.02e-50	fig|470.3433.peg.3615|B9Y09_01565|	Tn21 protein of unknown function Urf2   [Acinetobacter baumannii strain PR395 | 470.3433]	VFDB
+HOG7676.fa	WP_002118089.1	0.006	fig|470.9260.peg.3790|	Phenazine biosynthesis protein PhzA   [Acinetobacter baumannii strain abaGIM | 470.9260]	VFDB
+HOG7690.fa	WP_061523999.1	5.56e-15	fig|1628855.3.peg.4339|AI28_21490|	Multidrug resistance regulator EmrR (MprA)   [bacteria symbiont BFo1 of Frankliniella occidentalis | 1628855.3]	PATRIC
+HOG7713.fa	WP_005108943.1	0.004	fig|470.7020.peg.4057|	Zinc metalloproteinase aureolysin (EC 3.4.24.29)   [Acinetobacter baumannii strain MRSN7468 | 470.7020]	VFDB
+HOG7761.fa	WP_005026707.1	7.88e-38	fig|470.5054.peg.5725|BQ1898_00037|	2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) [pyochelin] siderophore @ 2,3-dihydroxybenzoate-AMP ligase (EC 2.7.7.58) of siderophore biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7787.fa	WP_005167489.1	0.009	fig|470.5054.peg.1893|BQ1898_02622|	Type IV fimbrial biogenesis protein FimT   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7847.fa	WP_003651732.1	5.33e-12	fig|470.5054.peg.1074|BQ1898_06009|	MbtH-like NRPS chaperone   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7870.fa	WP_016654664.1	4.48e-15	fig|470.5054.peg.950|BQ1898_06231|	Trans-2,3-dihydro-3-hydroxyanthranilate isomerase (EC 5.3.3.17)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG7871.fa	WP_004791317.1	2.56e-07	fig|1141663.3.peg.3429|OOC_16854|VBIProRet235505_3429|	Transcriptional regulator of acrAB operon, AcrR   [Providencia rettgeri Dmel1 | 1141663.3]	PATRIC
+HOG7882.fa	WP_019457407.1	2.18e-05	fig|1121018.3.peg.190|VBIArsNas272077_0190|	Transcriptional regulator of acrAB operon, AcrR   [Arsenophonus nasoniae DSM 15247 | 1121018.3]	PATRIC
+HOG7890.fa	WP_031947019.1	2.78e-26	fig|470.6998.peg.464|	Probable polysaccharide biosynthesis protein EpsC   [Acinetobacter baumannii strain MRSN7434 | 470.6998]	VFDB
+HOG7912.fa	WP_019458238.1	1.45e-10	fig|469595.3.peg.1122|CSAG_00258|VBICitSp98337_1122|	Transcriptional regulator of acrAB operon, AcrR   [Citrobacter sp. 30_2 | 469595.3]	PATRIC
+HOG7944.fa	WP_088823584.1	0.0	fig|470.7268.peg.3010|	Enterobactin synthetase component F, serine activating enzyme (EC 2.7.7.-)   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG7945.fa	WP_042896350.1	5.55e-41	fig|470.7268.peg.3012|	Enterobactin esterase   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG7953.fa	WP_002063389.1	8.13e-07	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG7998.fa	WP_005255201.1	1.08e-08	fig|1658672.3.peg.2061|ADJ79_08105|	Transcriptional regulator of acrAB operon, AcrR   [Ottowia sp. oral taxon 894 strain W10237 | 1658672.3]	PATRIC
+HOG8022.fa	WP_004903366.1	2.48e-12	fig|1044999.3.peg.3283|ETR_14521|VBIErwTra207570_3283|	Transcriptional regulator of acrAB operon, AcrR   [Erwinia tracheiphila PSU-1 | 1044999.3]	PATRIC
+HOG8099.fa	WP_004673123.1	1.88e-09	fig|470.5054.peg.517|BQ1898_01504|	LasA protease precursor   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG810.fa	WP_000056617.1	1.74e-12	fig|1002368.3.peg.2187|HMPREF0880_02388|VBIYokReg189340_2187|	Transcriptional regulator of acrAB operon, AcrR   [Yokenella regensburgei ATCC 43003 | 1002368.3]	PATRIC
+HOG813.fa	WP_000057216.1	0.003	fig|470.5054.peg.6902|BQ1898_05725|	Flagellar synthesis regulator FleN   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG8166.fa	WP_017396533.1	3.82e-08	fig|1681196.3.peg.287|AC791_07495|	Transcriptional regulator of acrAB operon, AcrR   [Klebsiella sp. RIT-PI-d | 1681196.3]	PATRIC
+HOG817.fa	WP_000059225.1	8.75e-25	fig|470.5054.peg.1075|BQ1898_06010|	Pyoverdin biosynthesis protein PvdH, L-2,4-diaminobutyrate:2-oxoglutarate aminotransferase (EC 2.6.1.76)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG8195.fa	WP_046740230.1	0.010	fig|1294143.3.peg.254|H681_01290|VBIPseDen287894_0254|	Alginate regulatory protein AlgQ, positive transcriptional regulator of AlgD   [Pseudomonas denitrificans ATCC 13867 | 1294143.3]	PATRIC
+HOG8279.fa	WP_035371098.1	6.96e-07	fig|470.5054.peg.1484|BQ1898_06150|	T6SS protein serine/threonine phosphatase PppA   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG830.fa	WP_000060753.1	2.92e-51	fig|1673722.3.peg.1083|	Two component system response regulator MtrA   [Actinomyces sp. SD1 | 1673722.3]	PATRIC
+HOG8318.fa	WP_016165641.1	3.75e-12	fig|406817.27.peg.920|XNC1_0959|	Transcriptional regulator of acrAB operon, AcrR   [Xenorhabdus nematophila ATCC 19061 | 406817.27]	PATRIC
+HOG8390.fa	WP_009516421.1	6.74e-10	fig|470.3344.peg.3219|B4R42_05655|	Mobile element protein   [Acinetobacter baumannii strain ABUH343 | 470.3344]	VFDB
+HOG8399.fa	WP_005070343.1	0.003	fig|1348852.3.peg.3409|LK11_16445|	Two component system response regulator MtrA   [Mumia flava MUSC 201 | 1348852.3]	PATRIC
+HOG8433.fa	WP_046811763.1	4.69e-72	fig|470.5054.peg.2788|BQ1898_01736|	PvcA protein, related to known isonitrile synthases   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG8435.fa	WP_032054461.1	2.10e-46	fig|470.5054.peg.2789|BQ1898_01737|	PvcB protein, related to amino acid oxidizing enzymes   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG849.fa	WP_000064534.1	2.94e-26	fig|1736417.4.peg.1557|ASG83_07680|	Two component system sensor histidine kinase MtrB   [Yonghaparkia sp. Soil809 | 1736417.4]	PATRIC
+HOG8508.fa	WP_067668986.1	0.008	fig|1292037.4.peg.3580|H480_18778|VBIAmyVan273440_3580|	Lipoprotein LpqB, modulates activity of MtrAB two-component system   [Amycolatopsis vancoresmycina DSM 44592 | 1292037.4]	PATRIC
+HOG8560.fa	WP_032011315.1	1.07e-08	fig|470.10130.peg.4537|	2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) [enterobactin] siderophore @ 2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase (EC 1.3.1.28) of siderophore biosynthesis   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG8592.fa	WP_013196687.1	5.10e-10	fig|1267600.3.peg.2601|VBIPanSp271959_2601|	Transcriptional regulator of acrAB operon, AcrR   [Pantoea sp. IMH | 1267600.3]	PATRIC
+HOG8606.fa	WP_061874803.1	1.80e-29	fig|470.5054.peg.7081|BQ1898_00412|	General secretion pathway protein F   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG8607.fa	WP_005230481.1	4.91e-112	fig|470.5054.peg.7080|BQ1898_00411|	General secretion pathway protein E   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG8611.fa	WP_005230475.1	1.55e-10	fig|470.5622.peg.2675|SAMEA104305299_02143|	General secretion pathway protein G   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG8612.fa	WP_101236203.1	5.71e-11	fig|470.5622.peg.2675|SAMEA104305299_02143|	General secretion pathway protein G   [Acinetobacter baumannii strain 4300STDY7045804 | 470.5622]	VFDB
+HOG8616.fa	WP_016655607.1	1.71e-07	fig|470.6507.peg.5314|	putative regulator PapX protein   [Acinetobacter baumannii strain 468 | 470.6507]	VFDB
+HOG8652.fa	WP_051064729.1	1.41e-30	fig|470.6507.peg.4384|	General secretion pathway protein G   [Acinetobacter baumannii strain 468 | 470.6507]	VFDB
+HOG879.fa	WP_092820297.1	0.002	fig|470.2575.peg.3056|	Acyl carrier protein   [Acinetobacter baumannii strain 3.5D | 470.2575]	VFDB
+HOG8827.fa	WP_004819215.1	1.23e-14	fig|470.5054.peg.669|BQ1898_05296|	twitching motility protein PilJ   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG8867.fa	WP_005203565.1	1.61e-06	fig|598467.3.peg.3393|VBIBreSp150985_3393|	Transcriptional regulator of acrAB operon, AcrR   [Brenneria sp. EniD312 | 598467.3]	PATRIC
+HOG8873.fa	WP_016163659.1	5.74e-06	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG8880.fa	WP_026040170.1	9.29e-30	fig|1117379.3.peg.1304|BABA_06241|VBIBacBat217866_1304|	Two component system response regulator MtrA   [Bacillus bataviensis LMG 21833 | 1117379.3]	PATRIC
+HOG8914.fa	WP_005241858.1	9.14e-09	fig|137716.3.peg.2420|VBIIdeSp114315_2420|	Transcriptional regulator of acrAB operon, AcrR   [Ideonella sp. B508-1 | 137716.3]	PATRIC
+HOG8968.fa	WP_004655841.1	6.17e-15	fig|470.6778.peg.4575|	Transcriptional regulator, Xre family   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG8979.fa	WP_016164894.1	3.89e-12	fig|470.9257.peg.3613|	ABC transporter protein IroC   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG9006.fa	WP_004657730.1	0.009	fig|470.7034.peg.4375|	T6SS component TssK (ImpJ/VasE)   [Acinetobacter baumannii strain MRSN7485 | 470.7034]	VFDB
+HOG9129.fa	WP_046740112.1	6.84e-08	fig|470.2575.peg.3056|	Acyl carrier protein   [Acinetobacter baumannii strain 3.5D | 470.2575]	VFDB
+HOG9131.fa	WP_050041318.1	2.58e-10	fig|1082705.9.peg.1681|	Transcriptional regulator of acrAB operon, AcrR   [Lonsdalea quercina subsp. quercina strain ATCC 29281 | 1082705.9]	PATRIC
+HOG9184.fa	WP_005282556.1	2.64e-07	fig|470.5054.peg.1056|BQ1898_05992|	Pyoverdin biosynthesis protein PvdN, putative aminotransferase, class V   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG9197.fa	WP_005232264.1	2.71e-10	fig|470.3453.peg.3429|CAT54_11265|	Integron integrase IntI1   [Acinetobacter baumannii strain ARLG1840 | 470.3453]	VFDB
+HOG9208.fa	WP_004899205.1	7.62e-05	fig|1544416.3.peg.937|Cocul_00932|	Two component system sensor histidine kinase MtrB   [Corynebacterium sp. NML 130210 | 1544416.3]	PATRIC
+HOG9254.fa	WP_004673187.1	1.13e-06	fig|470.6507.peg.4384|	General secretion pathway protein G   [Acinetobacter baumannii strain 468 | 470.6507]	VFDB
+HOG9354.fa	WP_004681781.1	0.004	fig|470.6778.peg.4662|	Cell wall surface anchor family protein   [Acinetobacter baumannii strain MRSN7130 | 470.6778]	VFDB
+HOG9409.fa	WP_081398899.1	5.99e-05	fig|470.5054.peg.2792|BQ1898_01740|	Transcriptional regulator PtxR, LysR family   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG9410.fa	WP_081398911.1	1.04e-08	fig|470.10130.peg.4545|	Ferric enterobactin transport ATP-binding protein FepC (TC 3.A.1.14.2)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG9418.fa	WP_004644586.1	0.002	fig|470.5054.peg.3494|BQ1898_02112|	Adenylate cyclase ExoY (EC 4.6.1.1)   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG9433.fa	WP_004680981.1	1.09e-04	fig|649754.3.peg.1242|HMPREF0281_01321|VBICorAmm25238_1242|	Two component system sensor histidine kinase MtrB   [Corynebacterium ammoniagenes DSM 20306 | 649754.3]	PATRIC
+HOG9486.fa	WP_005217015.1	0.006	fig|208964.12.peg.5748|PA5483|VBIPseAer58763_5748|	Alginate biosynthesis two-component system response regulator AlgB   [Pseudomonas aeruginosa PAO1 | 208964.12]	PATRIC
+HOG9508.fa	WP_010589606.1	1.32e-27	fig|470.3381.peg.4300|B9X91_18755|	Integron integrase IntI1   [Acinetobacter baumannii strain PR354 | 470.3381]	VFDB
+HOG9513.fa	WP_081399053.1	0.001	fig|2004649.3.peg.363|	ISSod13, transposase   [Acinetobacter sp. WCHA29 strain WCHA29 | 2004649.3]	VFDB
+HOG959.fa	WP_000076101.1	4.66e-53	fig|470.5054.peg.1502|BQ1898_05452|	Type IV pilus biogenesis protein PilO   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG960.fa	WP_000076440.1	1.36e-60	fig|1121878.3.peg.350|VBIFerFut265459_0350|	Two component system response regulator MtrA   [Ferrimonas futtsuensis DSM 18154 | 1121878.3]	PATRIC
+HOG9686.fa	WP_061874639.1	1.62e-04	fig|470.7268.peg.7479|	Type 1 fimbriae regulatory protein FimB   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG97.fa	WP_080591906.1	2.30e-12	fig|470.7268.peg.3004|	Enterobactin exporter EntS   [Acinetobacter baumannii strain SIUA3 | 470.7268]	VFDB
+HOG9829.fa	WP_004821295.1	0.008	fig|470.5623.peg.4094|SAMEA104305315_06550|	Pyoverdine chromophore precursor synthetase PvdL @ Siderophore biosynthesis non-ribosomal peptide synthetase modules   [Acinetobacter baumannii strain 4300STDY7045820 | 470.5623]	VFDB
+HOG9884.fa	WP_004819759.1	4.60e-15	fig|470.9257.peg.3609|	Outer Membrane Siderophore Receptor IroN   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB
+HOG9899.fa	WP_089605110.1	2.12e-06	fig|470.9259.peg.2302|	Transcriptional regulator CsgD for 2nd curli operon   [Acinetobacter baumannii strain aba45acb | 470.9259]	VFDB
+HOG993.fa	WP_000080538.1	1.01e-137	fig|470.10130.peg.4294|	2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)   [Acinetobacter baumannii SRR3217323 | 470.10130]	VFDB
+HOG9964.fa	WP_087620860.1	8.63e-10	fig|470.5054.peg.1238|BQ1898_05025|	Sigma factor PvdS, controling pyoverdin biosynthesis   [Acinetobacter baumannii strain AB32_M | 470.5054]	VFDB
+HOG9965.fa	WP_004829051.1	1.85e-04	fig|520999.6.peg.2145|PROVALCAL_02359|VBIProAlc107602_2145|	Transcriptional regulator of acrAB operon, AcrR   [Providencia alcalifaciens DSM 30120 | 520999.6]	PATRIC
+HOG9976.fa	WP_004816714.1	1.54e-06	fig|1121283.3.peg.1929|	Multidrug resistance regulator EmrR (MprA)   [Chromobacterium haemolyticum DSM 19808 | 1121283.3]	PATRIC
+HOG99.fa	WP_005056763.1	5.88e-05	fig|470.9257.peg.1698|	Enterobactin exporter EntS   [Acinetobacter baumannii strain aba_imp | 470.9257]	VFDB

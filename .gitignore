@@ -1,0 +1,24 @@
+# Editors
+**/__pycache__/
+# exclude all PyCharm stuff but keep all shared run configurations
+# See here for this pattern: https://stackoverflow.com/a/5534865
+!/.idea/
+/.idea/*
+!/.idea/runConfigurations/
+*.dir_bash*
+
+# pytest
+.cache/
+tests/.cache/
+.pytest_cache/
+
+# environment variables
+*.env
+
+*.log
+*.db
+*.pyc
+*.sqlite
+./p_feature_tables.pickle.bz2
+./p_full_annot.pickle.bz2
+*.dir_bash_history
