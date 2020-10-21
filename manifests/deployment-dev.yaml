@@ -4,16 +4,16 @@ metadata:
   labels:
     app.kubernetes.io/name: website
     app.kubernetes.io/part-of: aci-dash
-    app.kubernetes.io/version: v0.1.0
+    app.kubernetes.io/version: dev
   name: acidashwebsite
-  namespace: aci-dash-stable
+  namespace: aci-dash-develop
 spec:
   replicas: 1
   selector:
     matchLabels:
       app.kubernetes.io/name: website
       app.kubernetes.io/part-of: aci-dash
-      app.kubernetes.io/version: v0.1.0
+      app.kubernetes.io/version: dev
   template:
     metadata:
       annotations:
@@ -21,10 +21,10 @@ spec:
       labels:
         app.kubernetes.io/name: website
         app.kubernetes.io/part-of: aci-dash
-        app.kubernetes.io/version: v0.1.0
+        app.kubernetes.io/version: dev
     spec:
       containers:
-        - image: quay.io/mariusdieckmann/aci-dash-website:v0.1.0
+        - image: quay.io/mariusdieckmann/aci-dash-website:dev-ab8bc55
           name: aci-dash-website
           env:
             - name: PLOTLY_API_KEY
@@ -49,12 +49,12 @@ apiVersion: v1
 kind: Service
 metadata:
   name: acidashwebsite
-  namespace: aci-dash-stable
+  namespace: aci-dash-develop
 spec:
   selector:
     app.kubernetes.io/name: website
     app.kubernetes.io/part-of: aci-dash
-    app.kubernetes.io/version: v0.1.0
+    app.kubernetes.io/version: develop
   ports:
     - protocol: TCP
       port: 8080
@@ -64,7 +64,7 @@ apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
   name: acidashwebsite
-  namespace: aci-dash-stable
+  namespace: aci-dash-develop
   annotations:
     cert-manager.io/issuer: letsencrypt-prod
     nginx.ingress.kubernetes.io/ssl-redirect: "true"
