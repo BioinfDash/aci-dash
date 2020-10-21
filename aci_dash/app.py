@@ -36,7 +36,7 @@ path = Path(__file__).parent
 DOTENV_PATH = os.path.join(os.path.dirname(__file__), ".env")
 load_dotenv(DOTENV_PATH)
 
-if "DYNO" in os.environ:
+if not "DEBUG" in os.environ:
     # the app is on Heroku
     debug = False
 # google analytics with the tracking ID for this app
@@ -51,7 +51,13 @@ try:
 except KeyError:
     raise ImproperlyConfigured("Plotly credentials not set in .env")
 
-app_name = "Companion Dashboard Acinetobacter Comparative Genomics"
+try:
+    version_number = os.environ.get("VERSION")
+except KeyError:
+   version_number = '-1'
+
+
+app_name = "Companion Dashboard Acinetobacter Comparative Genomics" + os.environ.get("VERSION")
 server = Flask(app_name)
 
 try:
