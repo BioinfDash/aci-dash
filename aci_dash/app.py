@@ -813,6 +813,8 @@ def update_genome_info(hue_criterion, x_axis_category, y_axis_category, jitter, 
     if jitter:
         hog_table[x_axis_category] = hog_table[x_axis_category].dropna().astype(int).apply(lambda n: n+(random.random_sample()-0.5))
 
+    print(hog_table)
+    print(hog_table.columns)
     scatter_fig = px.scatter(hog_table,
                       y=y_axis_category, #"complete_acb(93)",
                       x=x_axis_category, #"other(141)",
