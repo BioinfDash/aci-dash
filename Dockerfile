@@ -6,6 +6,7 @@ RUN apt-get -y install build-essential
 
 RUN apt -y install nodejs
 RUN apt -y install npm
+RUN apt -y install git
 RUN apt-get -y install gunicorn
 RUN apt-get -y install python3-pandas
 
@@ -19,7 +20,9 @@ COPY aci_dash aci_dash
 COPY utility utility
 COPY requirements.txt requirements.txt
 COPY .pyup.yml .pyup.yml
+COPY .git .git
 
+RUN export VERSION="git describe --tags --long"
 RUN pip install dash.ly --upgrade
 RUN export PATH=~/home/aci-dash/.local/bin:$PATH
 

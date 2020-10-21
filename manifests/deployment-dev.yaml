@@ -5,10 +5,6 @@ metadata:
     app.kubernetes.io/name: website
     app.kubernetes.io/part-of: aci-dash
     app.kubernetes.io/version: v0.1.0
-  annotations:
-    keel.sh/policy: major 
-    keel.sh/pollSchedule: "@every 1m"
-    keel.sh/trigger: poll 
   name: acidashwebsite
   namespace: aci-dash-stable
 spec:
@@ -77,7 +73,7 @@ metadata:
       grpc_set_header l5d-dst-override $service_name.$namespace.svc.cluster.local:$service_port;
 spec:
   rules:
-  - host: aci-dash.ingress.rancher.computational.bio
+  - host: aci-dash.development.ingress.rancher.computational.bio
     http:
       paths:
       - backend:
@@ -86,6 +82,6 @@ spec:
         path: /
   tls: # < placing a host in the TLS config will indicate a certificate should be created
   - hosts:
-    - aci-dash.ingress.rancher.computational.bio
+    - aci-dash.development.ingress.rancher.computational.bio
     secretName: aci-dash-stable-private-cert # < cert-manager will store the created certificate in this secret.
 ---
