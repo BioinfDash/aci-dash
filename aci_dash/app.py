@@ -38,7 +38,7 @@ path = Path(__file__).parent
 DOTENV_PATH = os.path.join(os.path.dirname(__file__), ".env")
 load_dotenv(DOTENV_PATH)
 
-if "DYNO" in os.environ:
+if not "DEBUG" in os.environ:
     # the app is on Heroku
     debug = False
 # google analytics with the tracking ID for this app
@@ -53,7 +53,13 @@ try:
 except KeyError:
     raise ImproperlyConfigured("Plotly credentials not set in .env")
 
-app_name = "Companion Dashboard Acinetobacter Comparative Genomics"
+try:
+    version_number = os.environ.get("VERSION")
+except KeyError:
+   version_number = '-1'
+
+
+app_name = "Companion Dashboard Acinetobacter Comparative Genomics" + os.environ.get("VERSION")
 server = Flask(app_name)
 
 try:
@@ -815,6 +821,8 @@ def update_genome_info(hue_criterion, x_axis_category, y_axis_category, jitter, 
     if jitter:
         hog_table[x_axis_category] = hog_table[x_axis_category].dropna().astype(int).apply(lambda n: n+(random.random_sample()-0.5))
 
+    print(hog_table)
+    print(hog_table.columns)
     scatter_fig = px.scatter(hog_table,
                       y=y_axis_category, #"complete_acb(93)",
                       x=x_axis_category, #"other(141)",
