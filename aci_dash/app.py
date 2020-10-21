@@ -53,11 +53,10 @@ try:
 except KeyError:
     raise ImproperlyConfigured("Plotly credentials not set in .env")
 
-try:
+if "VERSION" in os.environ:
     version_number = os.environ.get("VERSION")
-except KeyError:
-   version_number = '-1'
-
+else:
+    version_number = '-1'
 
 app_name = "Companion Dashboard Acinetobacter Comparative Genomics" + version_number
 server = Flask(app_name)
