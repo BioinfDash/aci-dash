@@ -24,7 +24,7 @@ import bz2
 import _pickle as cPickle
 from pathlib import Path
 import sqlite3
-
+import urllib3
 
 class ImproperlyConfigured(Exception):
     """Raise this exception when an environment variable is not set.
@@ -79,43 +79,47 @@ PLOTLY_LOGO = "https://applbio.biologie.uni-frankfurt.de/acinetobacter/wp-conten
 # ...     full_hog_info_df = pd.read_csv('/home/bardya/Dropbox/abio/webapp/hog_all_in_one_reduced.tsv', sep='\t', header='infer', index_col=0)
 # ...     cPickle.dump(full_hog_info_df,f)
 
+#rel_path = path.parent / 'p_feature_table_only_19606.pickle.bz2'
+#df = cPickle.load(bz2.BZ2File(rel_path, 'rb'))
+http = urllib3.PoolManager()
+resp = http.request('GET','https://aci-dash.s3.computational.bio.uni-giessen.de/data/p_feature_tables.pickle.bz2')
+req_decompr = bz2.decompress(resp.data)
+df = cPickle.loads(req_decompr)
 
-rel_path = path.parent / 'p_feature_table_only_19606.pickle.bz2'
-df = cPickle.load(bz2.BZ2File(rel_path, 'rb'))
 
-#df.index.rename("id", inplace=True)
-#
-#relevant_columns = [  # "# feature",
-#    "genomic_accession",
-#    "assembly",
-#    "start",
-#    "end",
-#    "strand",
-#    "non-redundant_refseq",
-#    "name",
-#    "symbol",
-#    "locus_tag",
-#    "feature_interval_length",
-#    # "product_length",
-#    "attributes"]
-#
-#df = df[(df["# feature"] == "CDS") & (df["class"] == "with_protein")][relevant_columns]
-#
-#df.columns = [  # "feat",
-#    "genome_acc",
-#    "assembly",
-#    "start",
-#    "end",
-#    "str",
-#    "refseq_acc",
-#    "annotation",
-#    "sym",
-#    "locus_tag",
-#    "gene_len",
-#    # "product_len",
-#    "comments"]
-#
-#df['id'] = df.index
+df.index.rename("id", inplace=True)
+
+relevant_columns = [  # "# feature",
+   "genomic_accession",
+   "assembly",
+   "start",
+   "end",
+   "strand",
+   "non-redundant_refseq",
+   "name",
+   "symbol",
+   "locus_tag",
+   "feature_interval_length",
+   # "product_length",
+   "attributes"]
+
+df = df[(df["# feature"] == "CDS") & (df["class"] == "with_protein")][relevant_columns]
+
+df.columns = [  # "feat",
+   "genome_acc",
+   "assembly",
+   "start",
+   "end",
+   "str",
+   "refseq_acc",
+   "annotation",
+   "sym",
+   "locus_tag",
+   "gene_len",
+   # "product_len",
+   "comments"]
+
+df['id'] = df.index
 
 #con = sqlite3.connect("db_aci.sqlite")
 #sql = "SELECT * from feat_tables ;"
@@ -124,13 +128,16 @@ df = cPickle.load(bz2.BZ2File(rel_path, 'rb'))
 #sql = "SELECT * from feat_tables WHERE assembly = '{}';".format(assembly_acc)
 #dff = pd.read_sql_query(sql, con)
 
-rel_path = path.parent / 'extended_assembly2strain.csv'
+#rel_path = path.parent / 'extended_assembly2strain.csv'
+rel_path = 'https://aci-dash.s3.computational.bio.uni-giessen.de/data/extended_assembly2strain.csv'
 genomes_df = pd.read_csv( rel_path , header="infer",
                          sep='\t', index_col=1, dtype=str)
 
 genomes_dict = genomes_df.to_dict(orient="index")
 
-rel_path = path.parent / 'hogs2virulence_factors_with_source.tsv'
+#rel_path = path.parent / 'hogs2virulence_factors_with_source.tsv'
+
+rel_path = 'https://aci-dash.s3.computational.bio.uni-giessen.de/data/hogs2virulence_factors_with_source.tsv'
 hog2vir_df = pd.read_csv(rel_path, header=None,
                          sep='\t',
                          index_col=0,
@@ -140,8 +147,12 @@ hog2vir_df = pd.read_csv(rel_path, header=None,
 #                                     hog_info_table["baumannii(55)"].astype(int) + \
 #                                     hog_info_table["other_acb(34)"].astype(int)
 
-rel_path = path.parent / 'p_19606_hogs.pickle.bz2'
-full_hog_table = cPickle.load(bz2.BZ2File(rel_path, 'rb'))
+#rel_path = path.parent / 'p_19606_hogs.pickle.bz2'
+#full_hog_table = cPickle.load(bz2.BZ2File(rel_path, 'rb'))
+http = urllib3.PoolManager()
+resp = http.request('GET','https://aci-dash.s3.computational.bio.uni-giessen.de/data/p_full_annot.pickle.bz2')
+req_decompr = bz2.decompress(resp.data)
+full_hog_table = cPickle.loads(req_decompr)
 
 ##create the dendrogram
 categories = ["baumannii(55)", "calcoaceticus(4)", "other_acb(34)", "haemolyticus(50)", "baylyi(9)",
