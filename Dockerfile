@@ -23,6 +23,7 @@ COPY .pyup.yml .pyup.yml
 COPY .git .git
 
 RUN export VERSION="git describe --tags --long"
+ENV VERSION=$VERSION
 RUN pip install dash.ly --upgrade
 RUN export PATH=~/home/aci-dash/.local/bin:$PATH
 
