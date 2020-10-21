@@ -4,7 +4,7 @@ metadata:
   labels:
     app.kubernetes.io/name: website
     app.kubernetes.io/part-of: aci-dash
-    app.kubernetes.io/version: dev
+    app.kubernetes.io/version: develop
   name: acidashwebsite
   namespace: aci-dash-develop
 spec:
@@ -13,7 +13,7 @@ spec:
     matchLabels:
       app.kubernetes.io/name: website
       app.kubernetes.io/part-of: aci-dash
-      app.kubernetes.io/version: dev
+      app.kubernetes.io/version: develop
   template:
     metadata:
       annotations:
@@ -21,12 +21,14 @@ spec:
       labels:
         app.kubernetes.io/name: website
         app.kubernetes.io/part-of: aci-dash
-        app.kubernetes.io/version: dev
+        app.kubernetes.io/version: develop
     spec:
       containers:
-        - image: quay.io/mariusdieckmann/aci-dash-website:dev-ab8bc55
+        - image: quay.io/mariusdieckmann/aci-dash-website:dev-765cd7a
           name: aci-dash-website
           env:
+            - name: DEBUG
+              value: "true"
             - name: PLOTLY_API_KEY
               valueFrom:
                 secretKeyRef:
@@ -83,5 +85,5 @@ spec:
   tls: # < placing a host in the TLS config will indicate a certificate should be created
   - hosts:
     - aci-dash.development.ingress.rancher.computational.bio
-    secretName: aci-dash-stable-private-cert # < cert-manager will store the created certificate in this secret.
+    secretName: aci-dash-dev-private-cert # < cert-manager will store the created certificate in this secret.
 ---
