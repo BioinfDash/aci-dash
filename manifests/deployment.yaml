@@ -6,14 +6,14 @@ metadata:
     app.kubernetes.io/part-of: aci-dash
     app.kubernetes.io/version: v0.1.0
   name: acidashwebsite
-  namespace: acidash
+  namespace: aci-dash-stable
 spec:
   replicas: 1
   selector:
     matchLabels:
-    app.kubernetes.io/name: website
-    app.kubernetes.io/part-of: aci-dash
-    app.kubernetes.io/version: v0.1.0
+      app.kubernetes.io/name: website
+      app.kubernetes.io/part-of: aci-dash
+      app.kubernetes.io/version: v0.1.0
   template:
     metadata:
       annotations:
@@ -24,32 +24,32 @@ spec:
         app.kubernetes.io/version: v0.1.0
     spec:
       containers:
-          image: quay.io/mariusdieckmann/aci-dash-website:v0.1.0
+        - image: quay.io/mariusdieckmann/aci-dash-website:v0.1.0
           name: aci-dash-website
           env:
-          - name: PLOTLY_API_KEY
-            valueFrom:
-              secretKeyRef:
-                name: plotly
-                key: PLOTLY_API_KEY
-          - name: PLOTLY_USERNAME
-            valueFrom:
-              secretKeyRef:
-                name: plotly
-                key: PLOTLY_USERNAME
-          - name: SECRET_KEY 
-            valueFrom:
-              secretKeyRef:
-                name: plotly
-                key: SECRET_KEY 
+            - name: PLOTLY_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: plotly
+                  key: PLOTLY_API_KEY
+            - name: PLOTLY_USERNAME
+              valueFrom:
+                secretKeyRef:
+                  name: plotly
+                  key: PLOTLY_USERNAME
+            - name: SECRET_KEY 
+              valueFrom:
+                secretKeyRef:
+                  name: plotly
+                  key: SECRET_KEY 
           ports:
-          - containerPort: 8080
+            - containerPort: 8080
 ---
 apiVersion: v1
 kind: Service
 metadata:
   name: acidashwebsite
-  namespace: acidash
+  namespace: aci-dash-stable
 spec:
   selector:
     app.kubernetes.io/name: website
@@ -64,7 +64,7 @@ apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
   name: acidashwebsite
-  namespace: acidash
+  namespace: aci-dash-stable
   annotations:
     cert-manager.io/issuer: letsencrypt-prod
     nginx.ingress.kubernetes.io/ssl-redirect: "true"
@@ -73,7 +73,7 @@ metadata:
       grpc_set_header l5d-dst-override $service_name.$namespace.svc.cluster.local:$service_port;
 spec:
   rules:
-  - host: aci-dash.ingress.rancher2.computational.bio
+  - host: aci-dash.ingress.rancher.computational.bio
     http:
       paths:
       - backend:
@@ -82,6 +82,6 @@ spec:
         path: /
   tls: # < placing a host in the TLS config will indicate a certificate should be created
   - hosts:
-    - aci-dash.ingress.rancher2.computational.bio
+    - aci-dash.ingress.rancher.computational.bio
     secretName: aci-dash-stable-private-cert # < cert-manager will store the created certificate in this secret.
 ---

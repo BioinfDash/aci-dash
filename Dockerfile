@@ -15,7 +15,10 @@ RUN npm install plotly.js-dist
 
 
 #USER aci-dash
-COPY . .
+COPY aci_dash aci_dash
+COPY utility utility
+COPY requirements.txt requirements.txt
+COPY .pyup.yml .pyup.yml
 
 RUN pip install dash.ly --upgrade
 RUN export PATH=~/home/aci-dash/.local/bin:$PATH
