@@ -59,7 +59,7 @@ except KeyError:
    version_number = '-1'
 
 
-app_name = "Companion Dashboard Acinetobacter Comparative Genomics" + os.environ.get("VERSION")
+app_name = "Companion Dashboard Acinetobacter Comparative Genomics" + version_number
 server = Flask(app_name)
 
 try:
