@@ -22,7 +22,6 @@ from collections import Counter
 from numpy import random
 from plotly.figure_factory import create_dendrogram
 from plotly.subplots import make_subplots
-from numpy import nan
 import pickle
 import bz2
 import _pickle as cPickle
@@ -846,18 +845,18 @@ app.layout = serve_layout
 
 ################### STATIC ############################
 
-CMAP = {'QI clade': px.colors.sequential.Greys[1],
-        'BR clade': px.colors.sequential.Greys[2],
-        'LW clade': px.colors.sequential.Greys[3],
-        'BA clade': px.colors.sequential.Greys[4],
-        'HA clade': px.colors.sequential.Greys[5],
-        'ACB clade': px.colors.sequential.Greys[6],
-        'BNS clade': px.colors.sequential.Greys[7],
-        'B clade': px.colors.sequential.Greys[8],
+CMAP = {'QI clade': px.colors.sequential.Greens[1],
+        'BR clade': px.colors.sequential.Greens[2],
+        'LW clade': px.colors.sequential.Greens[3],
+        'BA clade': px.colors.sequential.Greens[4],
+        'HA clade': px.colors.sequential.Greens[5],
+        'ACB clade': px.colors.sequential.Greens[6],
+        'BNS clade': px.colors.sequential.Greens[7],
+        'B clade': px.colors.sequential.Greens[8],
         'Core': px.colors.sequential.Blues[3],
         'Accessory': px.colors.sequential.Blues[6],
         'Strain specific': "black",
-        'other nodes': px.colors.sequential.Purples[0],
+        'other nodes': 'rgb(173,216,230)', #lightblue (soft cyan)
         'VIR': 'rgb(240, 173, 78)',
         'sampled_country': 'rgb(21,140,186)'  # blue
         }
@@ -1057,7 +1056,7 @@ def update_genome_info(hue_criterion, x_axis_category, y_axis_category, jitter, 
     ### highlight vir factors
     if len(highlight) != 0: #list of possibly multiple features to be highlighted
         for i in highlight:
-            a_list = [i if hog in hog2vir_df.index else nan for hog in hog_table['hog_id1'].to_list()]
+            a_list = [i if hog in hog2vir_df.index else float("NaN") for hog in hog_table['hog_id1'].to_list()]
             #a_list = {v: (i if v in hog2vir_df.index else nan) for v in hog_table['hog_id1'].to_list()}
             hog_table[i] = a_list
             hog_table[i].fillna(hog_table[hue_criterion], inplace=True)
