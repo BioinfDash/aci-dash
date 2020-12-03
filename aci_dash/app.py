@@ -232,7 +232,7 @@ Card_map = dbc.Card([
 
 Card_data_table = dbc.Card(
                     dbc.CardBody([ html.Div([
-                                        html.P("To filter entries specifiy a string or number in the filter cell of each column. Text columns are searched for " + \
+                                        html.P("To filter protein entries, specifiy a string or number in the filter cell of each column. Text columns are searched for " + \
                                                    "entries containing the string. You may also use the following operators: eq (exactly equals), >, >=, <, and <= . " + \
                                                    "Text columns are compared by dictionary order. Numeric-only columns by value. " + \
                                                    "Use the checkboxes in the leftmost column to select one or more entries for the cards below.",
@@ -243,7 +243,7 @@ Card_data_table = dbc.Card(
                                                       },
                                                className="text-secondary"
                                                ),
-                                        dbc.Button("Focus on set of proteins instead", id="open-xl",
+                                        dbc.Button("Specify a list of accessions...", id="open-xl",
                                              # style={"width":"25%",
                                              #        "z-index":10,
                                              #        },
@@ -260,13 +260,13 @@ Card_data_table = dbc.Card(
                                     ),
                                 dbc.Modal(
                                     [
-                                        dbc.ModalHeader("Please specify a set of proteins accessions:"),
+                                        dbc.ModalHeader("Please specify a set of proteins accessions that you want to focus on:"),
                                         dbc.ModalBody(children=[
                                                                 dbc.FormGroup(
                                                                     [
                                                                         #dbc.Label("Text"),
                                                                         dbc.Textarea(
-                                                                            placeholder="WP_000777181.1, WP_02131412.1,...",
+                                                                            placeholder="WP_000446781.1, WP_001984992.1, WP_001020931.1, ...",
                                                                             id="user_protein_acc",
                                                                         ),
 
@@ -274,13 +274,13 @@ Card_data_table = dbc.Card(
                                                                             "Comma or new-line separated list of protein RefSeq accessions of selected genome." + \
                                                                             " Not matching accessions will be ignored."
                                                                         ),
-                                                                        html.Div(id='datatable_query_structure', style={'whitespace': 'pre'})
+                                                                        html.Div(id='datatable_query_structure', style={'whitespace': 'pre', 'display':'none'})
                                                                     ]
                                                                 )
                                                                 ]
                                                       ),
                                         dbc.ModalFooter(
-                                            dbc.Button("Show entries with matching accessions", id="close-xl", className="ml-auto")
+                                            dbc.Button("Show matches", id="close-xl", className="ml-auto")
                                         ),
                                     ],
                                     id="modal-xl",
@@ -501,7 +501,7 @@ Card_scatter_plot_and_controls = dbc.Card([
             daq.BooleanSwitch(
                 id="jitter-option",
                 on=False,
-                label = {'label': "add jitter x ± [0,.25] to resolve overlaps",
+                label = {'label': "add jitter x ± [0, .25] to resolve overlaps",
                         "style": {'font-size':'12px'} #this must be part of a label object
                         },
                 color='#158cba',
@@ -872,6 +872,7 @@ CMAP = {'QI clade': px.colors.sequential.Greens[1],
      Output('assembly-acc', "children")],
     [Input('genome-dropdown', 'value')])
 def update_map(assembly_acc):
+    # print("UPDATE_MAP", assembly_acc)
     gf = genomes_df.loc[assembly_acc]
 
     if pd.isnull(gf.loc["scope"]):
@@ -917,7 +918,7 @@ def update_map(assembly_acc):
     [Input('assembly-acc', "children")],
     [State("user_protein_acc", "value")])
 def update_table(assembly_acc, selprots):
-    #print("UPDATE_TABLE", assembly_acc, selprots )
+    # print("UPDATE_TABLE", assembly_acc, selprots )
     # con = sqlite3.connect("db_aci.sqlite")
     # sql = "SELECT * from feat_tables WHERE assembly = '{}';".format(assembly_acc)
     # dff = pd.read_sql_query(sql, con)
@@ -947,7 +948,7 @@ def update_genome_info(hue_criterion, x_axis_category, y_axis_category, jitter, 
                        assembly_acc, row_ids, selected_row_ids
                        #active_cell
                        ):
-    #print("update_genome_info", hue_criterion, x_axis_category, y_axis_category, jitter, highlight, assembly_acc)
+    # print("update_genome_info", hue_criterion, x_axis_category, y_axis_category, jitter, highlight, assembly_acc)
     # only selected genome
     dff = df[df["assembly"]==assembly_acc]
     #ctx = callback_context
@@ -1027,7 +1028,7 @@ def update_genome_info(hue_criterion, x_axis_category, y_axis_category, jitter, 
 
     ## add jitter
     if jitter:
-        hog_table[x_axis_category] = hog_table[x_axis_category].dropna().astype(int).apply(lambda n: n+(random.random_sample()-0.5))
+        hog_table[x_axis_category] = hog_table[x_axis_category].dropna().astype(int).apply(lambda n: n+(random.random_sample()-0.25))
 
     scatter_fig = px.scatter(hog_table,
                       y=y_axis_category, #"complete_acb(93)",
@@ -1215,7 +1216,9 @@ def create_normalized_barchart(series, identifier):
      Input('datatable-interactivity', 'derived_virtual_row_ids')
      ])
 def display_click_data(clicked_data, assembly_acc, row_ids):
-    #print("DISPLAY_CLICKED_DATA", clicked_data, assembly_acc)
+    # print("DISPLAY_CLICKED_DATA", clicked_data, assembly_acc)
+    # ctx = callback_context
+    # print(ctx.triggered[0]['prop_id'])
 
     if clicked_data is None: #needs to be triggerd du to genome-dropdown (can be solved by storing as a DIV value)
         raise PreventUpdate()
@@ -1322,7 +1325,7 @@ def display_click_data(clicked_data, assembly_acc, row_ids):
 
 
 def toggle_modal(n1, n2, is_open):
-    #print("TOGGLE_MODAL",n1,n2,is_open)
+    # print("TOGGLE_MODAL",n1,n2,is_open)
     if n1 == -1:
         return False
     if n1 or n2:
@@ -1344,7 +1347,7 @@ app.callback(
     State("close-xl", "n_clicks")
 )
 def trigger_modal(selected_data_points, close_n_clicks):
-    #print("TRIGGER_MODAL", selected_data_points)
+    # print("TRIGGER_MODAL", selected_data_points)
     if selected_data_points and len(selected_data_points) > 1:
         return selected_data_points, 1, close_n_clicks
     if selected_data_points == None or len(selected_data_points) == 1:
@@ -1358,12 +1361,12 @@ def trigger_modal(selected_data_points, close_n_clicks):
     State('selected_data_points', 'children')
 )
 def select_and_filter_selected_data(selectedData, selected_data_points):
-    #print("SELECT_AND_FILTER", selectedData, selected_data_points)
-#    ctx = callback_context
-#    print(ctx.triggered[0]['prop_id'])
-#    if ctx.triggered[0]['prop_id'] == 'assembly-acc.children':
+    # print("SELECT_AND_FILTER", selectedData, selected_data_points)
+    # ctx = callback_context
+    # print(ctx.triggered[0]['prop_id'])
+    # if ctx.triggered[0]['prop_id'] == 'assembly-acc.children':
     if selectedData == None or len(selectedData['points']) == 1 :
-        if selected_data_points:
+        if selected_data_points and not selected_data_points:
             return ""
         else:
             raise PreventUpdate()
@@ -1429,7 +1432,7 @@ def select_and_filter_selected_data(selectedData, selected_data_points):
     [Input('close-xl', 'n_clicks')],
     [State('user_protein_acc', 'value')])
 def update_output(n_clicks, value):
-    #print("UPDATE_Output", n_clicks, value)
+    # print("UPDATE_Output", n_clicks, value)
     if value == "" or not n_clicks:
         return None
     else:
@@ -1445,7 +1448,7 @@ def parse_input_accessions(values_string):
     return [l for l in list_of_accessions if l.strip()]
 
 def convert_list_to_filter_query(values_list, column="RefSeq Acc"):
-    print("CONVERT", values_list)
+    # print("CONVERT", values_list)
     res = []
     for val in values_list:
         res.append('{{{0}}} eq {1}'.format(column, val))
@@ -1456,6 +1459,7 @@ def convert_list_to_filter_query(values_list, column="RefSeq Acc"):
     [Input('datatable_query_structure', 'children')]
 )
 def write_query(query):
+    # print("WRITE_QUERY", query)
     if not query:
         return ''
     else:
