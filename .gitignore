@@ -15,6 +15,7 @@ tests/.cache/
 # environment variables
 *.env
 
+#other files
 *.log
 *.db
 *.pyc
@@ -22,3 +23,4 @@ tests/.cache/
 ./p_feature_tables.pickle.bz2
 ./p_full_annot.pickle.bz2
 *.dir_bash_history
+*.pickle.bz2
