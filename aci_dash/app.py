@@ -29,7 +29,7 @@ from pathlib import Path
 import sqlite3
 import urllib3
 
-#TODO: Fix weird error message when changing the genome, reporting the missing column for hueing markers in the main graph
+#TODO: Fix stderr  error message when changing the genome, reporting the missing column for hueing markers in the main graph
 
 class ImproperlyConfigured(Exception):
     """Raise this exception when an environment variable is not set.
