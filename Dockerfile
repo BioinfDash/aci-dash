@@ -1,4 +1,4 @@
-FROM quay.io/mariusdieckmann/aci-dash-baseimage:v0.1.2
+FROM quay.io/mariusdieckmann/aci-dash-baseimage:v0.1.3
 
 
 #USER aci-dash
