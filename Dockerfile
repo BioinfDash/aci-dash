@@ -1,6 +1,5 @@
 FROM quay.io/mariusdieckmann/aci-dash-baseimage:v0.1.6
 
-
 #USER aci-dash
 COPY aci_dash aci_dash
 COPY utility utility
