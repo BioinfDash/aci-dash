@@ -10,4 +10,8 @@ RUN export VERSION="git describe --tags --long"
 ENV VERSION=$VERSION
 RUN export PATH=~/home/aci-dash/.local/bin:$PATH
 
+
+COPY requirements.txt requirements_aci_dash.txt
+RUN pip install --no-cache-dir -r requirements_aci_dash.txt
+
 CMD gunicorn aci_dash.app:server --bind 0.0.0.0:8080 --timeout 300
