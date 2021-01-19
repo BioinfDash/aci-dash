@@ -6,10 +6,9 @@ COPY utility utility
 COPY .pyup.yml .pyup.yml
 COPY .git .git
 
-RUN export VERSION="git describe --tags --long"
+RUN export VERSION="$(git describe --tags --long)"
 ENV VERSION=$VERSION
 RUN export PATH=~/home/aci-dash/.local/bin:$PATH
-
 
 COPY requirements.txt requirements_aci_dash.txt
 RUN pip install --no-cache-dir -r requirements_aci_dash.txt
