@@ -6,7 +6,9 @@ COPY utility utility
 COPY .pyup.yml .pyup.yml
 COPY .git .git
 
-ENV VERSION="$(git describe --tags --long)"
+RUN VERSION="$(git describe --tags --long)"
+ENV VERSION=$VERSION
+
 RUN export PATH=~/home/aci-dash/.local/bin:$PATH
 
 COPY requirements.txt requirements_aci_dash.txt
