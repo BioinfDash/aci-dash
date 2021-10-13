@@ -61,9 +61,6 @@ except KeyError:
 
 version_number = os.getenv("VERSION", "-1")
 
-if not version_number:
-    version_number = "1.0.0"
-
 app_name = "Companion Dashboard - Acinetobacter Comparative Genomics - v" + version_number
 server = Flask(app_name)
 
