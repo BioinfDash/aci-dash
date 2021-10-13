@@ -1264,7 +1264,7 @@ def display_click_data(clicked_data, assembly_acc, row_ids):
                                            target='_blank')
         if this_series['cogid_1'] != 'N/A':
             this_series['cogid_1'] = html.A(this_series['cogid_1'],
-                                            href="https://www.ncbi.nlm.nih.gov/research/cog/cog/{}/.format(
+                                            href="https://www.ncbi.nlm.nih.gov/research/cog/cog/{}".format(
                                                 this_series['cogid_1']),
                                             target='_blank')
 
