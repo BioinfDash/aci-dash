@@ -7,7 +7,6 @@ on:
       - v*
 
 env:
-  # TODO: Change variable to your image's name.
   IMAGE_NAME: aci-dash
 
 jobs:
@@ -34,8 +33,7 @@ jobs:
           # Use Docker `latest` tag convention
           [ "$VERSION" == "main" ] && VERSION=latest
 
-          echo IMAGE_ID=harbor.computational.bio.uni-giessen.de/scienceobjectsdb/aci-dash
-          echo VERSION=$VERSION
+          export IMAGE_ID=harbor.computational.bio.uni-giessen.de/scienceobjectsdb/aci-dash
 
           echo "${{ secrets.HARBORPW }}" | docker login harbor.computational.bio.uni-giessen.de -u '${{ secrets.HARBORUSER }}' --password-stdin
 
