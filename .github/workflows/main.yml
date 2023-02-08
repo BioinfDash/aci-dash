@@ -39,7 +39,5 @@ jobs:
 
           echo "${{ secrets.HARBORPW }}" | docker login harbor.computational.bio.uni-giessen.de -u '${{ secrets.HARBORUSER }}' --password-stdin
 
-
           docker tag $IMAGE_NAME $IMAGE_ID:$VERSION
           docker push $IMAGE_ID:$VERSION
-          XDLodXvLHZu8Giesso4UVHcgd58hbBnl
