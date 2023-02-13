@@ -13,7 +13,7 @@ dash-table
 Flask
 Flask-Compress
 future==0.18.2
-idna==2.10
+idna==3.4
 itsdangerous==1.1.0
 Jinja2==2.11.2
 MarkupSafe==1.1.1
