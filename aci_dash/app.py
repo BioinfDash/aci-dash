@@ -53,10 +53,10 @@ else:
     dotenv_path = os.path.join(os.path.dirname(__file__), ".env")
     load_dotenv(dotenv_path)
 
-try:
-    py.sign_in(os.environ["PLOTLY_USERNAME"], os.environ["PLOTLY_API_KEY"])
-except KeyError:
-    raise ImproperlyConfigured("Plotly credentials not set in .env")
+#try:
+#    py.sign_in(os.environ["PLOTLY_USERNAME"], os.environ["PLOTLY_API_KEY"])
+#except KeyError:
+#    raise ImproperlyConfigured("Plotly credentials not set in .env")
 
 
 version_number = os.getenv("VERSION", "-1")
