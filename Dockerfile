@@ -12,9 +12,9 @@ RUN apk update \
     && pip install --upgrade pip \
     && npm install npm -g \
     && npm install plotly.js-dist \
-    && pip install --no-cache-dir dash.ly --upgrade \
-    && pip install gunicorn wheel \
+    && pip install --no-cache-dir --break-system-packages dash.ly --upgrade \
+    && pip install --break-system-packages gunicorn wheel \
     && pip install --no-cache-dir --break-system-packages -r requirements_aci_dash.txt
-CMD gunicorn aci_dash.app:server --bind 0.0.0.0:8080 --timeout 300
+CMD ["gunicorn", "aci_dash.app:server", "--bind", "0.0.0.0:8080", "--timeout", "300"]
 ENV VERSION="$(git describe --tags --long)"
 ENV PATH="~/home/aci-dash/.local/bin:${PATH}"
