@@ -9,7 +9,7 @@ RUN apk update \
     && apk upgrade \
     && apk add python3 py3-pip py3-pandas git nodejs npm \
     && adduser -D -s /bin/bash aci-dash \
-    && pip install --upgrade pip \
+    && pip install --break-system-packages --upgrade pip \
     && npm install npm -g \
     && npm install plotly.js-dist \
     && pip install --no-cache-dir --break-system-packages dash.ly --upgrade \
