@@ -2,7 +2,7 @@ Brotli==1.0.9
 certifi==2022.12.07
 chardet==4.0.0
 chart-studio==1.1.0
-click==7.1.2
+click==8.1.3
 dash==1.21.0
 dash-bootstrap-components
 dash-core-components
