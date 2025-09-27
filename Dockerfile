@@ -14,7 +14,7 @@ RUN apk update \
     && npm install plotly.js-dist \
     && pip install --no-cache-dir dash.ly --upgrade \
     && pip install gunicorn wheel \
-    && pip install --no-cache-dir -r requirements_aci_dash.txt
+    && pip install --no-cache-dir --break-system-packages -r requirements_aci_dash.txt
 CMD gunicorn aci_dash.app:server --bind 0.0.0.0:8080 --timeout 300
 ENV VERSION="$(git describe --tags --long)"
 ENV PATH="~/home/aci-dash/.local/bin:${PATH}"
